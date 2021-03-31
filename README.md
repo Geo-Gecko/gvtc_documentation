@@ -1,4 +1,4 @@
-![](images/image140.png){width="3.720485564304462in" height="0.875in"}
+![](images/image108.png){width="3.720485564304462in" height="0.875in"}
 
 GEONODE <span style="font-variant:small-caps;">PLATFORM DOCUMENTATION</span>
 ============================================================================
