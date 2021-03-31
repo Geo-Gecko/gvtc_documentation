@@ -1,4 +1,4 @@
-![](media/image140.png){width="3.720485564304462in" height="0.875in"}
+![](images/image140.png){width="3.720485564304462in" height="0.875in"}
 
 GEONODE <span style="font-variant:small-caps;">PLATFORM DOCUMENTATION</span>
 ============================================================================
@@ -183,14 +183,14 @@ Once your account is created, you can view other accounts on the system.
 To see information about other users on the system, click on the
 “People” option from the “About” drop down menu (see screenshot below)
 
-![](media/image18.png){width="6.267716535433071in"
+![](images/image18.png){width="6.267716535433071in"
 height="2.6805555555555554in"}
 
 *About menu - People link*
 
 A page having a list of registered users will pop up.
 
-![](media/image46.png){width="6.267716535433071in"
+![](images/image46.png){width="6.267716535433071in"
 height="3.638888888888889in"}
 
 *List of the registered users*
@@ -200,7 +200,7 @@ the name of the user you are looking for in the input text field to
 filter the users list. Select a user and click on their *username* to
 access the user details page.
 
-![](media/image84.png){width="6.267716535433071in"
+![](images/image84.png){width="6.267716535433071in"
 height="3.5833333333333335in"}
 
 **User details**
@@ -213,7 +213,7 @@ the user owns (layers, maps and documents).
 Through the User Activities link, on the right side of the page, it is
 possible to visualize all the activities the user has done.
 
-![](media/image16.png){width="6.267716535433071in" height="1.5in"}
+![](images/image16.png){width="6.267716535433071in" height="1.5in"}
 
 ***User activities***
 
@@ -223,14 +223,14 @@ section to read more about that.
 It is also possible, in GeoNode, to see the recent activities of all
 users through the Recent Activities link of the user menu.
 
-![](media/image28.png){width="6.267716535433071in"
+![](images/image28.png){width="6.267716535433071in"
 height="2.4305555555555554in"}
 
 *Recent Activities link*
 
 In the picture below an example of a user's recent activities.
 
-![](media/image127.png){width="6.267716535433071in"
+![](images/image127.png){width="6.267716535433071in"
 height="4.902777777777778in"}
 
 *Recent Activities*
@@ -253,7 +253,7 @@ other users
 information](https://docs.geonode.org/en/master/usage/users_groups/users_info.html#user-info))
 of that user.
 
-![](media/image130.png){width="6.267716535433071in"
+![](images/image130.png){width="6.267716535433071in"
 height="3.3472222222222223in"}
 
 **Send message to users and groups**
@@ -265,7 +265,7 @@ the message to the users and groups you have selected.
 You will be redirected to the *Conversation* details page related to the
 subject.
 
-![](media/image8.png){width="6.267716535433071in"
+![](images/image8.png){width="6.267716535433071in"
 height="2.4583333333333335in"}
 
 *Your message*
@@ -277,14 +277,14 @@ You can view your conversations in your *Inbox* page, reachable through
 the Back to inbox button (see the picture above) or from the Inbox link
 of the user menu.
 
-![](media/image32.png){width="6.267716535433071in"
+![](images/image32.png){width="6.267716535433071in"
 height="2.4583333333333335in"}
 
 *Inbox link*
 
 The picture below shows how your *Inbox* page should look like.
 
-![](media/image30.png){width="6.267716535433071in"
+![](images/image30.png){width="6.267716535433071in"
 height="1.5277777777777777in"}
 
 *Inbox page*
@@ -293,7 +293,7 @@ In *Inbox* all the unread messages are listed. You haven’t received any
 message yet so your *Inbox* is empty. If you switch to the *All* tab you
 can see all the conversations you are involved in.
 
-> ![](media/image136.png){width="6.267716535433071in"
+> ![](images/image136.png){width="6.267716535433071in"
 > height="2.3194444444444446in"}
 
 *All your conversations*
@@ -301,7 +301,7 @@ can see all the conversations you are involved in.
 When some user sends a reply to your message your *Inbox* shows it, see
 the picture below for an example.
 
-![](media/image2.png){width="6.267716535433071in"
+![](images/image2.png){width="6.267716535433071in"
 height="2.0833333333333335in"}
 
 *A reply to your message*
@@ -309,7 +309,7 @@ height="2.0833333333333335in"}
 You can open the *Conversation* details by clicking on the *Subject*
 link.
 
-![](media/image133.png){width="6.267716535433071in"
+![](images/image133.png){width="6.267716535433071in"
 height="3.1805555555555554in"}
 
 *Conversation details*
@@ -348,14 +348,14 @@ There are three main types of resources that GeoNode can manage:
 Documents and layers can be accessed from the Data menu of the
 navigation bar.
 
-![](media/image65.png){width="6.267716535433071in" height="1.75in"}
+![](images/image65.png){width="6.267716535433071in" height="1.75in"}
 
 *Data menu*
 
 The Maps menu lets you view already existing maps and also create new
 maps.
 
-![](media/image23.png){width="6.267716535433071in"
+![](images/image23.png){width="6.267716535433071in"
 height="1.6666666666666667in"}
 
 *Maps menu*
@@ -439,7 +439,7 @@ Only authenticated users can upload data into GeoNode.
 -   the Upload Documents button of the *Documents Search* page (see
     [Documents](https://docs.geonode.org/en/master/usage/data/finding_data.html#finding-documents))\
     \
-    ![](media/image54.png){width="6.267716535433071in"
+    ![](images/image54.png){width="6.267716535433071in"
     height="1.9861111111111112in"}\
     *Documents Upload button\
     \
@@ -447,14 +447,14 @@ Only authenticated users can upload data into GeoNode.
 
 The Upload Document link of the Data menu in the navigation bar\
 \
-![](media/image48.png){width="6.267716535433071in"
+![](images/image48.png){width="6.267716535433071in"
 height="1.6805555555555556in"}\
 *Document Upload link*
 
 The *Document Upload* page looks like the one shown in the picture
 below.
 
-> ![](media/image11.png){width="6.270833333333333in"
+> ![](images/image11.png){width="6.270833333333333in"
 > height="3.9533245844269467in"}
 >
 > *Document Upload page*
@@ -515,7 +515,7 @@ not provided) whereas the last one is optional.
 
 -   The *Group* to which the document is linked.
 
-![](media/image26.png){width="6.267716535433071in"
+![](images/image26.png){width="6.267716535433071in"
 height="3.9027777777777777in"}
 
 > *Document Basic Metadata*
@@ -526,7 +526,7 @@ in the bottom right corner of the page.
 **Note:** When a document is linked to some resources, you can see that
 link on the *Resource Page*.
 
-![](media/image53.png){width="6.267716535433071in"
+![](images/image53.png){width="6.267716535433071in"
 height="4.888888888888889in"}
 
 > *Documents linked to a Layer*
@@ -535,7 +535,7 @@ It will be also visible on the [Document
 Information](https://docs.geonode.org/en/master/usage/managing_documents/document_info.html#document-info)
 page.
 
-![](media/image7.png){width="5.682372047244095in"
+![](images/image7.png){width="5.682372047244095in"
 height="3.1979166666666665in"}
 
 > *Resources linked to a Document*
@@ -555,7 +555,7 @@ height="3.1979166666666665in"}
 -   Potential *Restrictions* to sharing the document should be provided
     > in the Restrictions box.
 
-![](media/image145.png){width="6.267716535433071in"
+![](images/image145.png){width="6.267716535433071in"
 height="5.722222222222222in"}
 
 > *Document Location and Licenses*
@@ -580,7 +580,7 @@ height="5.722222222222222in"}
 > *Responsible Parties*, *Owner* and *Permissions* are listed on the
 > right side of the page, you can edit them.
 >
-> ![](media/image47.png){width="6.267716535433071in" height="6.5in"}
+> ![](images/image47.png){width="6.267716535433071in" height="6.5in"}
 >
 > *Document Optional Metadata*
 >
@@ -603,7 +603,7 @@ information about it. You can access the document details page by
 clicking on its name. That page looks like the one shown in the picture
 below.
 
-![](media/image43.png){width="6.267716535433071in"
+![](images/image43.png){width="6.267716535433071in"
 height="6.166666666666667in"}
 
 *Document Information page*
@@ -625,14 +625,14 @@ the group to which it is linked.
 The **Share Tab** provides the social media links for the document to
 share. There is also a link to share the document through email.
 
-> ![](media/image143.png){width="6.267716535433071in"
+> ![](images/image143.png){width="6.267716535433071in"
 > height="1.9583333333333333in"}
 
 *Document Sharing*
 
 You can **Rate** the document through the *Ratings system*.
 
-![](media/image37.png){width="6.267716535433071in"
+![](images/image37.png){width="6.267716535433071in"
 height="1.7361111111111112in"}
 
 *Rate the Document*
@@ -640,7 +640,7 @@ height="1.7361111111111112in"}
 In the **Comments Tab** section you can post your comment. Click on Add
 Comment, insert your comment and click Submit Comment to post it.
 
-![](media/image29.png){width="6.267716535433071in" height="4.5in"}
+![](images/image29.png){width="6.267716535433071in" height="4.5in"}
 
 *Document Comments*
 
@@ -652,10 +652,10 @@ you want to remove it click on the red Delete button.
 If you want this document in your *Favorites* (see [Updating the
 Profile](https://docs.geonode.org/en/master/usage/accounts_user_profile/updating_profile/index.html#editing-profile)),
 open the **Favorite Tab** and click on Add to
-Favorites.![](media/image102.png){width="6.267716535433071in"
+Favorites.![](images/image102.png){width="6.267716535433071in"
 height="2.5in"}
 
-![](media/image69.png){width="6.267716535433071in"
+![](images/image69.png){width="6.267716535433071in"
 height="1.6805555555555556in"}
 
 *Your Favorite Comment*
@@ -665,7 +665,7 @@ and tiff image documents. The *EXIF* means that additional information
 (metadata) is stored within the image, so GeoNode allows you to see
 those information in the **Exif Tab**.
 
-![](media/image144.png){width="6.267716535433071in"
+![](images/image144.png){width="6.267716535433071in"
 height="4.555555555555555in"}
 
 *The EXIF tab*
@@ -677,7 +677,7 @@ On the right side of the *Document Page* you can see other useful
 information such as the links to the resources linked to the document,
 the document *Owner*, the *Point of Contact* and the *Metadata Author*.
 
-> ![](media/image92.png){width="3.16878280839895in"
+> ![](images/image92.png){width="3.16878280839895in"
 > height="3.5729166666666665in"}
 
 *Document useful tool*
@@ -697,7 +697,7 @@ useful tool:
 -   Download Metadata to download the whole set of metadata in various
     > formats\
     > \
-    > ![](media/image141.png){width="6.267716535433071in"
+    > ![](images/image141.png){width="6.267716535433071in"
     > height="3.0in"}\
     > *Document Metadata download\
     > \
@@ -713,7 +713,7 @@ useful tool:
 When clicking on the Metadata Detail button the *Metadata Details Page*
 will open.
 
-> ![](media/image108.png){width="4.606232502187226in"
+> ![](images/image108.png){width="4.606232502187226in"
 > height="7.322916666666667in"}
 
 *Document Metadata Details page*
@@ -749,7 +749,7 @@ page makes available useful tools for document editing. Click on the
 Edit Document button to see what you can do to make changes. The picture
 below shows you the *Editing Panel* that will appear on the screen.
 
-> ![](media/image86.png){width="6.267716535433071in"
+> ![](images/image86.png){width="6.267716535433071in"
 > height="2.3333333333333335in"}
 
 *Document Editing panel*
@@ -762,7 +762,7 @@ where you can upload a new file.
 The Remove button allows you to delete the document. You will have to
 confirm that choice.
 
-> ![](media/image95.png){width="6.267716535433071in"
+> ![](images/image95.png){width="6.267716535433071in"
 > height="1.5555555555555556in"}
 
 *Document Removal confirmation*
@@ -783,14 +783,14 @@ button Upload files. If the thumbnail has been successfully uploaded you
 can see it by coming back to the document list. Click on the Explore
 Documents button to check that.
 
-> ![](media/image13.png){width="6.267716535433071in"
+> ![](images/image13.png){width="6.267716535433071in"
 > height="3.9583333333333335in"}
 
 *Upload Document’s Thumbnail*
 
 If no errors occur the following message will be shown.
 
-> ![](media/image57.png){width="6.267716535433071in"
+> ![](images/image57.png){width="6.267716535433071in"
 > height="1.0277777777777777in"}
 
 *Uploading success*
@@ -801,7 +801,7 @@ If no errors occur the following message will be shown.
 You can edit the metadata of your document through the buttons shown in
 the red rectangle in the picture below.
 
-> ![](media/image38.png){width="6.114583333333333in"
+> ![](images/image38.png){width="6.114583333333333in"
 > height="3.1145833333333335in"}
 
 *Editing Metadata*
@@ -815,7 +815,7 @@ the red rectangle in the picture below.
 > Some information is mandatory such as the *Title* or the *Category*
 > the document belongs to, some others are optional.
 >
-> ![](media/image70.png){width="6.267716535433071in"
+> ![](images/image70.png){width="6.267716535433071in"
 > height="35.59722222222222in"}
 
 *Editing Metadata*
@@ -840,7 +840,7 @@ groups.
 Through the button shown in the picture below it is possible to manage
 the document permissions.
 
-> ![](media/image132.png){width="6.267716535433071in"
+> ![](images/image132.png){width="6.267716535433071in"
 > height="4.777777777777778in"}
 
 *The button to change permissions*
@@ -858,7 +858,7 @@ page allows to set up who can:
 
 See an example in the picture below.
 
-> ![](media/image131.png){width="6.267716535433071in"
+> ![](images/image131.png){width="6.267716535433071in"
 > height="5.430555555555555in"}
 
 *Changing the Document permissions*
@@ -894,21 +894,21 @@ Layers Uploading
 The *Layer Uploading* page can be reached from the Upload Layer link of
 the Data menu in the navigation bar.
 
-> ![](media/image56.png){width="6.267716535433071in"
+> ![](images/image56.png){width="6.267716535433071in"
 > height="1.9166666666666667in"}
 
 *Link for Layers Uploading*
 
 There is also an Upload Layers button in the *Layers Page*.
 
-> ![](media/image150.png){width="6.267716535433071in"
+> ![](images/image150.png){width="6.267716535433071in"
 > height="1.8333333333333333in"}
 
 *Button for Layers Uploading*
 
 The *Layers Uploading* page looks like the one in the picture below.
 
-> ![](media/image73.png){width="6.267716535433071in" height="4.0in"}
+> ![](images/image73.png){width="6.267716535433071in" height="4.0in"}
 
 *The Layers Uploading page*
 
@@ -921,7 +921,7 @@ The *Layers Uploading* page looks like the one in the picture below.
 > Select the *charset*, then click on Upload files to start the process
 > or click Clear to remove all the loaded files form the page.
 >
-> ![](media/image80.gif){width="6.267716535433071in"
+> ![](images/image80.gif){width="6.267716535433071in"
 > height="4.986111111111111in"}
 
 *Shapefile Uploading*
@@ -963,14 +963,14 @@ Let’s try it!
 Click on the Remote Services link of the Data menu in the navigation
 bar.
 
-> ![](media/image74.png){width="6.267716535433071in"
+> ![](images/image74.png){width="6.267716535433071in"
 > height="1.9305555555555556in"}
 
 *Remote Services link*
 
 The page that opens will contain the list of the available services.
 
-> ![](media/image124.png){width="6.267716535433071in"
+> ![](images/image124.png){width="6.267716535433071in"
 > height="1.5416666666666667in"}
 
 *Remote Services*
@@ -983,7 +983,7 @@ To configure a new service:
 
 -   select the *Service Type\
     > \
-    > * ![](media/image9.png){width="6.267716535433071in"
+    > * ![](images/image9.png){width="6.267716535433071in"
     > height="0.7083333333333334in"}\
     > *Service Types\
     > \
@@ -1046,7 +1046,7 @@ interested in through the *Import Resources* page where you will be
 automatically redirected to. Take a look at the gif below to see the
 whole process.
 
-> ![](media/image81.gif){width="6.267716535433071in"
+> ![](images/image81.gif){width="6.267716535433071in"
 > height="4.638888888888889in"}
 
 *A new Remote Service*
@@ -1059,7 +1059,7 @@ whole process.
 > edit those metadata through the form available from the Edit Service
 > Metadata button of the *Service Details* page (see the picture below).
 >
-> ![](media/image119.png){width="6.267716535433071in" height="2.625in"}
+> ![](images/image119.png){width="6.267716535433071in" height="2.625in"}
 
 *Remote Service metadata*
 
@@ -1077,7 +1077,7 @@ and manage layers, anyone can view and download them.
 In order to modify the Layer *Permissions* settings you have to click
 the Change the Layer Permissions button in the Layer page.
 
-> ![](media/image35.png){width="6.267716535433071in"
+> ![](images/image35.png){width="6.267716535433071in"
 > height="9.847222222222221in"}
 
 *Change Layer Permissions*
@@ -1085,7 +1085,7 @@ the Change the Layer Permissions button in the Layer page.
 Through the *Permissions Settings Panel* you can add or remove
 permissions for users and groups. The picture below shows an example.
 
-> ![](media/image128.png){width="6.267716535433071in"
+> ![](images/image128.png){width="6.267716535433071in"
 > height="7.513888888888889in"}
 
 *Layer Permissions settings for users and groups*
@@ -1128,7 +1128,7 @@ Layer Information
 > From the layers list page, click on the layer you are interested in.
 > The *Layer Page* will open.
 >
-> ![](media/image125.png){width="6.267716535433071in"
+> ![](images/image125.png){width="6.267716535433071in"
 > height="9.847222222222221in"}
 
 *Layer Information*
@@ -1159,7 +1159,7 @@ functionalities:
 
 -   the *Print* tool to print the preview.
 
-> ![](media/image82.gif){width="6.267716535433071in"
+> ![](images/image82.gif){width="6.267716535433071in"
 > height="4.666666666666667in"}
 
 *Layer Preview*
@@ -1182,7 +1182,7 @@ information about the layer:
     > are the topic categories the layer belongs to and which regions
     > are affected.\
     > \
-    > ![](media/image99.png){width="6.267716535433071in"
+    > ![](images/image99.png){width="6.267716535433071in"
     > height="3.9027777777777777in"}\
     > *Layer Info tab\
     > \
@@ -1193,7 +1193,7 @@ information about the layer:
     > statistics (e.g. the range of values) are estimated (if
     > possible).\
     > \
-    > ![](media/image139.png){width="6.267716535433071in"
+    > ![](images/image139.png){width="6.267716535433071in"
     > height="4.5in"}\
     > *Layer Attributes tab\
     > \
@@ -1202,7 +1202,7 @@ information about the layer:
 -   The *Share* tab provides the links for the layer to share through
     > social media or email.\
     > \
-    > ![](media/image71.png){width="6.267716535433071in"
+    > ![](images/image71.png){width="6.267716535433071in"
     > height="1.8055555555555556in"}\
     > *Layer Sharing\
     > \
@@ -1210,7 +1210,7 @@ information about the layer:
 
 -   You can *Rate* the layer through the *Rating system*.\
     > \
-    > ![](media/image14.png){width="6.267716535433071in"
+    > ![](images/image14.png){width="6.267716535433071in"
     > height="1.9027777777777777in"}\
     > *Rate the Layer\
     > \
@@ -1220,7 +1220,7 @@ information about the layer:
     > Add Comment, insert your comment and click Submit Comment to post
     > it.\
     > \
-    > ![](media/image96.png){width="6.267716535433071in"
+    > ![](images/image96.png){width="6.267716535433071in"
     > height="2.111111111111111in"}\
     > *Layer Comments\
     > \
@@ -1233,7 +1233,7 @@ information about the layer:
     > Profile](https://docs.geonode.org/en/master/usage/accounts_user_profile/updating_profile/index.html#editing-profile)),
     > open the *Favorite* tab and click on Add to Favorites.\
     > \
-    > ![](media/image91.png){width="6.267716535433071in"
+    > ![](images/image91.png){width="6.267716535433071in"
     > height="1.6388888888888888in"}\
     > *Your Favorite Layer\
     > \
@@ -1287,7 +1287,7 @@ section.
     > Click on the checkbox corresponding to one of the styles listed to
     > apply it the preview;\
     > \
-    > ![](media/image67.png){width="6.267716535433071in"
+    > ![](images/image67.png){width="6.267716535433071in"
     > height="5.472222222222222in"}\
     > *Change the Layer Style in preview\
     > \
@@ -1324,7 +1324,7 @@ Downloading Layers
 > can choose the *Images* formats PNG, PDF, JPEG if you want to save a
 > “screenshot-like” image of the layer.
 >
-> ![](media/image49.png){width="6.135416666666667in"
+> ![](images/image49.png){width="6.135416666666667in"
 > height="2.6458333333333335in"}
 
 *Downloading Layers as Images*
@@ -1333,7 +1333,7 @@ You can also download the layer data, the supported export formats will
 be listed in the *Data* tab. Click on your desired format to trigger the
 download.
 
-> ![](media/image90.png){width="6.125in" height="5.03125in"}
+> ![](images/image90.png){width="6.125in" height="5.03125in"}
 
 *Downloading the Layer Data*
 
@@ -1341,7 +1341,7 @@ As shown in the image above, GeoNode allows you to download a subset of
 data. Click on Do you want to filter it? to filter the layer data before
 the download.
 
-> ![](media/image63.gif){width="6.267716535433071in"
+> ![](images/image63.gif){width="6.267716535433071in"
 > height="5.402777777777778in"}
 
 *Downloading the Layer Data*
@@ -1359,7 +1359,7 @@ The Editing Tools button of the *Layer Page* (see [Layer
 Information](https://docs.geonode.org/en/master/usage/managing_layers/layer_info.html#layer-info))
 opens a panel like the one shown in the picture below.
 
-> ![](media/image62.png){width="6.267716535433071in"
+> ![](images/image62.png){width="6.267716535433071in"
 > height="3.8194444444444446in"}
 
 *The Layer Editing panel*
@@ -1391,7 +1391,7 @@ Styling](https://docs.geonode.org/en/master/usage/managing_layers/layer_styling.
 >
 > A message will confirm the thumbnail has been correctly changed.
 >
-> ![](media/image66.png){width="6.267716535433071in"
+> ![](images/image66.png){width="6.267716535433071in"
 > height="3.7916666666666665in"}
 
 *The Layer Editing panel*
@@ -1401,7 +1401,7 @@ button of the *Layer Editing* panel. Using the “Upload Thumbnail” page
 it is possible to enable the automatically generated thumbnail or upload
 an image to be used in place of it.
 
-> ![](media/image17.png){width="6.267716535433071in"
+> ![](images/image17.png){width="6.267716535433071in"
 > height="2.2916666666666665in"}
 
 *The Upload Thumbnail panel*
@@ -1413,7 +1413,7 @@ From the *Layer Editing* panel click on Replace to change the layer
 source dataset. You will be driven to the *Replace Layer* page in which
 Choose Files button allows you to select files from your disk.
 
-> ![](media/image24.png){width="6.267716535433071in"
+> ![](images/image24.png){width="6.267716535433071in"
 > height="3.861111111111111in"}
 
 *Replace a Layer*
@@ -1422,7 +1422,7 @@ Once the *Charset* selected the upload process can be triggered by
 clicking on Replace Layer. If no errors occur you will see a message
 like the one in the picture below.
 
-> ![](media/image138.png){width="6.267716535433071in"
+> ![](images/image138.png){width="6.267716535433071in"
 > height="5.333333333333333in"}
 
 *Replace Layer success*
@@ -1430,7 +1430,7 @@ like the one in the picture below.
 We have replaced the *roads* dataset with the *railways* one. You can
 see the differences in the *Layer Preview*.
 
-> ![](media/image75.png){width="6.267716535433071in"
+> ![](images/image75.png){width="6.267716535433071in"
 > height="5.013888888888889in"}
 
 *Result of the Layer Replacement*
@@ -1441,7 +1441,7 @@ see the differences in the *Layer Preview*.
 The Edit data button of the *Layer Editing* panel opens the *Layer*
 within a *Map*.
 
-> ![](media/image36.png){width="6.267716535433071in"
+> ![](images/image36.png){width="6.267716535433071in"
 > height="3.9583333333333335in"}
 
 *Editing the Layer Data*
@@ -1450,13 +1450,13 @@ The *Attribute Table* panel of the *Layer* will automatically appear at
 the bottom of the *Map*. In that panel all the features are listed. For
 each feature you can zoom to its extent by clicking on the corresponding
 *magnifying glass* icon
-[![](media/image22.png){width="0.3194444444444444in"
+[![](images/image22.png){width="0.3194444444444444in"
 height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/magnifying_glass_icon.png)
 at the beginning of the row, you can also observe which values the
 feature assumes for each attribute.
 
 Click the *Edit Mode*
-[![](media/image60.png){width="0.3194444444444444in"
+[![](images/image60.png){width="0.3194444444444444in"
 height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/edit_mode_button.png)
 button to start an editing session.
 
@@ -1465,21 +1465,21 @@ Now you can:
 -   *Add new Features\
     > \
     > * Through the *Add New Feature* button
-    > [![](media/image68.png){width="0.3194444444444444in"
+    > [![](images/image68.png){width="0.3194444444444444in"
     > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/add_new_feature_button.png)
     > it is possible to set up a new feature for your layer. Fill the
     > attributes fields and click
-    > [![](media/image123.png){width="0.3194444444444444in"
+    > [![](images/image123.png){width="0.3194444444444444in"
     > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/save_changes_button.png)
     > to save your change. Your new feature doesn’t have a shape yet,
-    > click on [![](media/image77.png){width="0.3194444444444444in"
+    > click on [![](images/image77.png){width="0.3194444444444444in"
     > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/add_shape_to_geometry_button.png)
     > to draw its shape directly on the *Map* then click on
-    > [![](media/image88.png){width="0.3194444444444444in"
+    > [![](images/image88.png){width="0.3194444444444444in"
     > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/save_changes_button.png)
     > to save it.\
     > \
-    > ![](media/image15.gif){width="6.267716535433071in"
+    > ![](images/image15.gif){width="6.267716535433071in"
     > height="3.5in"}\
     > *Add a New Feature to the Layer\
     > \
@@ -1494,10 +1494,10 @@ Now you can:
     > \
     > * If you want to delete a feature you have to select it on the
     > *Attribute Table* and click on
-    > [![](media/image78.png){width="0.3194444444444444in"
+    > [![](images/image78.png){width="0.3194444444444444in"
     > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/delete_feature_button.png).\
     > \
-    > ![](media/image106.gif){width="6.267716535433071in"
+    > ![](images/image106.gif){width="6.267716535433071in"
     > height="3.5277777777777777in"}\
     > *Delete a Feature\
     > \
@@ -1509,7 +1509,7 @@ Now you can:
     > vertices with the mouse. A blue circle lets you know what vertex
     > you are moving.\
     > \
-    > ![](media/image104.gif){width="6.267716535433071in"
+    > ![](images/image104.gif){width="6.267716535433071in"
     > height="3.5555555555555554in"}\
     > *Feature Shape Editing - Change the existing shape\
     > \
@@ -1517,7 +1517,7 @@ Now you can:
     > * Features can have *multipart shapes*. You can add parts to the
     > shape when editing it.\
     > \
-    > ![](media/image87.gif){width="6.267716535433071in"
+    > ![](images/image87.gif){width="6.267716535433071in"
     > height="3.5555555555555554in"}\
     > *Feature Shape Editing - Add parts to the existing shape\
     > \
@@ -1528,14 +1528,14 @@ Now you can:
     > * When you are in *Edit Mode* you can also edit the attributes
     > values changing them directly in the corresponding text fields.\
     > \
-    > ![](media/image20.gif){width="6.267716535433071in"
+    > ![](images/image20.gif){width="6.267716535433071in"
     > height="3.5555555555555554in"}\
     > *Feature Attributes Editing\
     > \
     > *
 
 Once you have finished you can end the *Editing Session* by clicking on
-the [![](media/image121.png){width="0.3194444444444444in"
+the [![](images/image121.png){width="0.3194444444444444in"
 height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/end_editing_session_button.png)
 button.
 
@@ -1571,7 +1571,7 @@ nature of the data you’re mapping. When uploading a new layer (see
 Uploading](https://docs.geonode.org/en/master/usage/managing_layers/uploading_layers.html#uploading-layers))
 a new default style will be associated with it.
 
-> ![](media/image27.png){width="6.267716535433071in"
+> ![](images/image27.png){width="6.267716535433071in"
 > height="5.611111111111111in"}
 
 *Default Style for Layers*
@@ -1590,7 +1590,7 @@ Information](https://docs.geonode.org/en/master/usage/managing_layers/layer_info
 and click on Editing Tools. Then click the Edit button in the *Styles*
 section of the *Layer Editing* panel (see the picture below).
 
-> ![](media/image111.png){width="6.267716535433071in"
+> ![](images/image111.png){width="6.267716535433071in"
 > height="3.6944444444444446in"}
 
 *Edit Styles button*
@@ -1598,18 +1598,18 @@ section of the *Layer Editing* panel (see the picture below).
 The *Layer* will open in a new *Map*. The *Styles Panel* will show you
 all the available styles for the layer and some useful tools.
 
-> ![](media/image50.png){width="6.267716535433071in"
+> ![](images/image50.png){width="6.267716535433071in"
 > height="3.2083333333333335in"}
 
 *The Styles Panel in the Map*
 
 Now follow the steps below:
 
-1.  Click the [![](media/image134.png){width="0.3194444444444444in"
+1.  Click the [![](images/image134.png){width="0.3194444444444444in"
     > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/create_new_style_button.png) button.
     > The *Style Templates Panel* will open.
 
-> ![](media/image126.png){width="6.267716535433071in"
+> ![](images/image126.png){width="6.267716535433071in"
 > height="5.333333333333333in"}
 >
 > *Create new Styles*
@@ -1617,12 +1617,12 @@ Now follow the steps below:
 2.  Choose a *Style Template* from the list (both *CSS* and *SLD* styles
     > are available).
 
-> ![](media/image110.png){width="6.267716535433071in"
+> ![](images/image110.png){width="6.267716535433071in"
 > height="3.1944444444444446in"}
 >
 > *Style Templates*
 
-3.  Click the [![](media/image94.png){width="0.3194444444444444in"
+3.  Click the [![](images/image94.png){width="0.3194444444444444in"
     > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/add_style_button.png)
     > button to add the *Style Template* to the styles list.
 
@@ -1630,20 +1630,20 @@ Now follow the steps below:
 
 4.  Insert a *Title* and an *Abstract* (optional), then click on Save.
 
-> ![](media/image44.png){width="5.197916666666667in" height="2.65625in"}
+> ![](images/image44.png){width="5.197916666666667in" height="2.65625in"}
 >
 > *Title and Abstract for new Styles*
 
 The style you have created is now added to the *Styles List*.
 
-> ![](media/image34.png){width="6.267716535433071in"
+> ![](images/image34.png){width="6.267716535433071in"
 > height="3.8055555555555554in"}
 
 *New Styles into the list*
 
 You will also see this new style in the *Layer Page*.
 
-> ![](media/image120.png){width="6.267716535433071in" height="5.5in"}
+> ![](images/image120.png){width="6.267716535433071in" height="5.5in"}
 
 *The Layer Page with the new Style*
 
@@ -1661,15 +1661,15 @@ paragraph we will explain how.
 The following steps show you how to edit styles:
 
 1.  From inside the map open the *TOC (Table Of Content)* by clicking
-    > the [![](media/image72.png){width="0.3194444444444444in"
+    > the [![](images/image72.png){width="0.3194444444444444in"
     > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/toc_button.png)
     > button
 
-2.  Click on [![](media/image114.png){width="0.3194444444444444in"
+2.  Click on [![](images/image114.png){width="0.3194444444444444in"
     > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/layer_settings_button.png)
 
 3.  Open the *Style* tab
-    > [![](media/image52.png){width="0.3194444444444444in"
+    > [![](images/image52.png){width="0.3194444444444444in"
     > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/style_tab.png)
 
 > Note:
@@ -1680,34 +1680,34 @@ The following steps show you how to edit styles:
 > to read more)
 
 4.  Select the *Style* and click on
-    > [![](media/image149.png){width="0.3194444444444444in"
+    > [![](images/image149.png){width="0.3194444444444444in"
     > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/style_editor_button.png)
 
 5.  Edit the style. The *Style Editor* helps you to write valid styles
     > through the *Syntax Validator* which shows you a popup in case of
     > errors (see the picture below).
 
-> ![](media/image115.png){width="6.267716535433071in" height="3.875in"}
+> ![](images/image115.png){width="6.267716535433071in" height="3.875in"}
 >
 > *The Style Editor Syntax Validation*
 
-6.  Click on [![](media/image117.png){width="0.3194444444444444in"
+6.  Click on [![](images/image117.png){width="0.3194444444444444in"
     > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/save_style_button.png)
     > to save your changes.
 
 See the following gif to recap the whole process.
 
-> ![](media/image142.gif){width="6.267716535433071in"
+> ![](images/image142.gif){width="6.267716535433071in"
 > height="3.4722222222222223in"}
 
 *The Style Editor*
 
 > You can also decide to make your new style the *Default Style* of that
-> layer. Click on [![](media/image113.png){width="0.3194444444444444in"
+> layer. Click on [![](images/image113.png){width="0.3194444444444444in"
 > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/set_style_as_default_button.png)
 > to do that.
 >
-> Click on [![](media/image12.png){width="0.3194444444444444in"
+> Click on [![](images/image12.png){width="0.3194444444444444in"
 > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/delete_style_button.png)
 > to delete the style.
 
@@ -1726,14 +1726,14 @@ Tools* panel and follow the steps below:
 
 1.  Click the Upload button of the *Styles* section
 
-> ![](media/image105.png){width="6.229166666666667in"
+> ![](images/image105.png){width="6.229166666666667in"
 > height="3.5729166666666665in"}
 >
 > *Upload Styles button*
 
 2.  Click on Choose Files and select your style from your disk
 
-> ![](media/image147.png){width="6.267716535433071in" height="4.0in"}
+> ![](images/image147.png){width="6.267716535433071in" height="4.0in"}
 >
 > *Upload Styles*
 
@@ -1748,7 +1748,7 @@ the *Layer Page*.
 Given a layer, you can manage all its styles in the *Styles Management
 Page* accessible from the Manage button of the *Layer Editing* panel.
 
-> ![](media/image59.png){width="6.267716535433071in"
+> ![](images/image59.png){width="6.267716535433071in"
 > height="3.4305555555555554in"}
 
 *Managing Styles*
@@ -1785,7 +1785,7 @@ In order to create new maps you can use:
 
 -   the Create Map link of the *Maps* menu in the navigation bar\
     > \
-    > ![](media/image79.png){width="6.267716535433071in"
+    > ![](images/image79.png){width="6.267716535433071in"
     > height="1.0277777777777777in"}\
     > *The Create Map link\
     > \
@@ -1794,7 +1794,7 @@ In order to create new maps you can use:
 -   the Create Map button in the *Layer Page* (it creates a map using a
     > specific layer)\
     > \
-    > ![](media/image45.png){width="6.267716535433071in"
+    > ![](images/image45.png){width="6.267716535433071in"
     > height="4.972222222222222in"}\
     > *The Create Map button\
     > \
@@ -1802,7 +1802,7 @@ In order to create new maps you can use:
 
 -   the Create New Map button in the *Explore Maps* page\
     > \
-    > ![](media/image5.png){width="6.267716535433071in"
+    > ![](images/image5.png){width="6.267716535433071in"
     > height="2.3333333333333335in"}\
     > *The Create New Map button\
     > \
@@ -1811,13 +1811,13 @@ In order to create new maps you can use:
 The new *Map* will open in a *Map Viewer* like the one in the picture
 below.
 
-> ![](media/image148.png){width="6.267716535433071in"
+> ![](images/image148.png){width="6.267716535433071in"
 > height="3.2083333333333335in"}
 
 *The Map Viewer*
 
 > In the upper left corner the
-> [![](media/image97.png){width="0.3194444444444444in"
+> [![](images/image97.png){width="0.3194444444444444in"
 > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/toc_button1.png)
 > button opens the [Table of Contents
 > (TOC)](https://docs.geonode.org/en/master/usage/managing_maps/exploring_maps/toc.html#toc)
@@ -1829,24 +1829,24 @@ below.
 > them up or down in the list).
 >
 > It also allows to hide/show layers (
-> [![](media/image116.png){width="0.3194444444444444in"
+> [![](images/image116.png){width="0.3194444444444444in"
 > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/show_button.png)
-> and [![](media/image51.png){width="0.3194444444444444in"
+> and [![](images/image51.png){width="0.3194444444444444in"
 > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/hide_button.png)
 > ), to zoom to layers extents (
-> [![](media/image58.png){width="0.3194444444444444in"
+> [![](images/image58.png){width="0.3194444444444444in"
 > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/zoom_to_layer_extent_button.png)
 > ) and to manage their properties (
-> [![](media/image19.png){width="0.3194444444444444in"
+> [![](images/image19.png){width="0.3194444444444444in"
 > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/layer_settings_button1.png)
 > ).
 >
 > Once the map layers have been settled it is possible to save the *Map*
-> by clicking on [![](media/image89.png){width="0.3194444444444444in"
+> by clicking on [![](images/image89.png){width="0.3194444444444444in"
 > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/burger_menu_button.png)
 > and choosing Save as.
 >
-> ![](media/image129.gif){width="6.267716535433071in"
+> ![](images/image129.gif){width="6.267716535433071in"
 > height="3.4583333333333335in"}
 
 *Creating new Maps*
@@ -1883,7 +1883,7 @@ Map Information
 > Click on the title of the *Map* you are interested in to open its
 > *Information* page, it should look like the following.
 >
-> ![](media/image135.png){width="6.267716535433071in"
+> ![](images/image135.png){width="6.267716535433071in"
 > height="6.722222222222222in"}
 
 *The Map Information page*
@@ -1913,7 +1913,7 @@ The *Map Preview* shows the *Map* with very basic functionalities:
 
 -   the *Print* tool to print the preview.
 
-> ![](media/image118.gif){width="6.267716535433071in"
+> ![](images/image118.gif){width="6.267716535433071in"
 > height="4.458333333333333in"}
 
 *Map Preview*
@@ -1934,7 +1934,7 @@ different information about the map:
     > are involved. The Map Layers WMS GetCapabilities document link is
     > also provided.\
     > \
-    > ![](media/image101.png){width="6.267716535433071in"
+    > ![](images/image101.png){width="6.267716535433071in"
     > height="2.9444444444444446in"}\
     > *Maps Info tab\
     > \
@@ -1943,7 +1943,7 @@ different information about the map:
 -   The *Share* tab provides the links for the map to share through
     > social media or email.\
     > \
-    > ![](media/image41.png){width="6.267716535433071in"
+    > ![](images/image41.png){width="6.267716535433071in"
     > height="1.8611111111111112in"}\
     > *Map Sharing\
     > \
@@ -1951,7 +1951,7 @@ different information about the map:
 
 -   You can *Rate* the map through the *Rating system*.\
     > \
-    > ![](media/image21.png){width="6.267716535433071in"
+    > ![](images/image21.png){width="6.267716535433071in"
     > height="2.0416666666666665in"}\
     > *Map Rating\
     > \
@@ -1962,7 +1962,7 @@ different information about the map:
     > it.\
     > \
     > \
-    > ![](media/image112.png){width="6.267716535433071in"
+    > ![](images/image112.png){width="6.267716535433071in"
     > height="2.125in"}\
     > *Map Comments\
     > \
@@ -1977,7 +1977,7 @@ different information about the map:
     > Profile](https://docs.geonode.org/en/master/usage/accounts_user_profile/updating_profile/index.html#editing-profile)),
     > open the *Favorite* tab and click on Add to Favorites.\
     > \
-    > ![](media/image83.png){width="6.267716535433071in"
+    > ![](images/image83.png){width="6.267716535433071in"
     > height="1.5972222222222223in"}\
     > *Your Favorite Maps\
     > \
@@ -2030,14 +2030,14 @@ Maps Metadata
 *Maps Metadata* can be explored by clicking the Metadata Detail button
 from the *Map Information* page.
 
-> ![](media/image76.png){width="6.267716535433071in"
+> ![](images/image76.png){width="6.267716535433071in"
 > height="3.7222222222222223in"}
 
 *The Map Metadata Detail button*
 
 The *Map Metadata* page will open.
 
-> ![](media/image40.png){width="6.267716535433071in"
+> ![](images/image40.png){width="6.267716535433071in"
 > height="9.63888888888889in"}
 
 *The Map Metadata Details*
@@ -2076,7 +2076,7 @@ grouped as follow:
 
 -   **Basic Metadata\
     > \
-    > ** ![](media/image25.png){width="6.267716535433071in"
+    > ** ![](images/image25.png){width="6.267716535433071in"
     > height="4.819444444444445in"}\
     > *Basic Map Metadata\
     > \
@@ -2113,7 +2113,7 @@ grouped as follow:
 
 -   **Location and Licenses\
     > \
-    > ** ![](media/image3.png){width="6.267716535433071in"
+    > ** ![](images/image3.png){width="6.267716535433071in"
     > height="5.541666666666667in"}\
     > *Location and Licenses Metadata for Maps\
     > \
@@ -2141,7 +2141,7 @@ grouped as follow:
 
 -   **Optional Metadata\
     > \
-    > ** ![](media/image93.png){width="6.267716535433071in"
+    > ** ![](images/image93.png){width="6.267716535433071in"
     > height="6.375in"}\
     > *Optional Map Metadata\
     > \
@@ -2166,7 +2166,7 @@ grouped as follow:
 If you miss some mandatory metadata the *Completeness* bar shows you a
 red message like the one in the picture below.
 
-> ![](media/image122.png){width="3.46875in"
+> ![](images/image122.png){width="3.46875in"
 > height="1.3854166666666667in"}
 
 *Completeness Progress Bar*
@@ -2177,7 +2177,7 @@ red message like the one in the picture below.
 The Advanced Edit editing tool allows to change the map metadata. You
 can find this button into the map *Editing Tools*.
 
-> ![](media/image146.png){width="6.267716535433071in" height="2.625in"}
+> ![](images/image146.png){width="6.267716535433071in" height="2.625in"}
 
 *The Advanced Edit button*
 
@@ -2195,14 +2195,14 @@ List* page (see
 Select a map you are interested in and click on it, the *Map Page* will
 open.
 
-> ![](media/image107.png){width="6.267716535433071in"
+> ![](images/image107.png){width="6.267716535433071in"
 > height="3.7222222222222223in"}
 
 *The View Map button*
 
 Click on the View Map button to open the *Map Viewer*.
 
-> ![](media/image33.png){width="6.267716535433071in"
+> ![](images/image33.png){width="6.267716535433071in"
 > height="3.2083333333333335in"}
 
 *The Map View*
@@ -2241,7 +2241,7 @@ following tools:
 >
 > Lets type the name of some place then select the first record.
 >
-> ![](media/image55.png){width="6.267716535433071in"
+> ![](images/image55.png){width="6.267716535433071in"
 > height="3.0972222222222223in"}
 
 *The Search Bar*
@@ -2250,7 +2250,7 @@ The map will automatically re-center on that area delimiting it by a
 polygon in the case of an area, by a line in the case of a linear shape
 (e.g. streets, streams) and by a marker in the case of a point.
 
-> ![](media/image31.png){width="6.267716535433071in"
+> ![](images/image31.png){width="6.267716535433071in"
 > height="3.0972222222222223in"}
 
 *Result of a Search*
@@ -2264,32 +2264,32 @@ polygon in the case of an area, by a line in the case of a linear shape
 > objects on the map.
 >
 > By default the *Sidebar* shows you the zooming buttons
-> [![](media/image42.png){width="0.3194444444444444in"
+> [![](images/image42.png){width="0.3194444444444444in"
 > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/zoom_in_button.png)
-> and [![](media/image137.png){width="0.3194444444444444in"
+> and [![](images/image137.png){width="0.3194444444444444in"
 > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/zoom_out_button.png),
 > other options can be explored by clicking on
-> [![](media/image98.png){width="0.3194444444444444in"
+> [![](images/image98.png){width="0.3194444444444444in"
 > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/sidebar_expand_button.png)
 > which expands/collapses the toolbar.
 >
-> ![](media/image6.png){width="3.0625in" height="3.9270833333333335in"}
+> ![](images/image6.png){width="3.0625in" height="3.9270833333333335in"}
 
 *The Default Sidebar*
 
-> ![](media/image64.png){width="4.1875in" height="5.75in"}
+> ![](images/image64.png){width="4.1875in" height="5.75in"}
 
 *The Expanded Sidebar*
 
 The *Sidebar* contains the following tools:
 
 -   The *Query Objects on map* allows you to get feature information
-    > through the [![](media/image85.png){width="0.3194444444444444in"
+    > through the [![](images/image85.png){width="0.3194444444444444in"
     > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/query_objects_on_map_button.png) button.
     > It allows you to retrieve information about the features of some
     > layers by clicking them directly on the map.\
     > \
-    > ![](media/image109.gif){width="6.267716535433071in"
+    > ![](images/image109.gif){width="6.267716535433071in"
     > height="4.152777777777778in"}\
     > *Querying Objects on map\
     > \
@@ -2299,19 +2299,19 @@ The *Sidebar* contains the following tools:
     > loaded layer.
 
 -   You can *Zoom To Max Extent* by clicking
-    > [![](media/image61.png){width="0.3194444444444444in"
+    > [![](images/image61.png){width="0.3194444444444444in"
     > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/zoom_to_max_extent_button.png).
 
 -   You can switch between the previous and the next zoom level through
     > the *Go Back* button
-    > [![](media/image10.png){width="0.3194444444444444in"
+    > [![](images/image10.png){width="0.3194444444444444in"
     > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/go_back_button.png)
     > and the *Go Forward* one
-    > [![](media/image1.png){width="0.3194444444444444in"
+    > [![](images/image1.png){width="0.3194444444444444in"
     > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/go_forward_button.png).
 
 -   The *Switch to Full Screen*
-    > [![](media/image4.png){width="0.3194444444444444in"
+    > [![](images/image4.png){width="0.3194444444444444in"
     > height="0.3194444444444444in"}](https://docs.geonode.org/en/master/_images/full_screen_button.png)
     > button allows to have a full screen map.
 
@@ -2326,14 +2326,14 @@ By default, GeoNode allows to enrich maps with many world backgrounds:
 
 -   *Sentinel-2-cloudless*
 
-> ![](media/image100.png){width="6.267716535433071in"
+> ![](images/image100.png){width="6.267716535433071in"
 > height="3.2083333333333335in"}
 
 *The Basemap Switcher Tool*
 
 You can also decide to have an *Empty Background*.
 
-> ![](media/image39.gif){width="6.267716535433071in"
+> ![](images/image39.gif){width="6.267716535433071in"
 > height="3.3472222222222223in"}
 
 *Switching the Basemap*
