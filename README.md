@@ -542,7 +542,7 @@ It will be also visible on the *Document Information* page.
 > *Responsible Parties*, *Owner* and *Permissions* are listed on the
 > right side of the page, you can edit them.
 >
-> ![](images/image47.png)
+> ![](images/image50.png)
 >
 > *Document Optional Metadata*
 >
@@ -552,20 +552,16 @@ It will be also visible on the *Document Information* page.
 >
 > Click on the blue button Update to save information on the system.
 
-○ [Document
-Information](https://docs.geonode.org/en/master/usage/managing_documents/document_info.html)
-
 Document Information
 ====================
 
-From the *Documents Search Page* (see
-[Documents](https://docs.geonode.org/en/master/usage/data/finding_data.html#finding-documents))
+From the *Documents Search Page* 
 you can select the document you are interested in and see some basic
 information about it. You can access the document details page by
 clicking on its name. That page looks like the one shown in the picture
 below.
 
-![](images/image43.png)
+![](images/image10.png)
 
 *Document Information page*
 
@@ -586,20 +582,20 @@ the group to which it is linked.
 The **Share Tab** provides the social media links for the document to
 share. There is also a link to share the document through email.
 
-> ![](images/image143.png)
+> ![](images/image147.png)
 
 *Document Sharing*
 
 You can **Rate** the document through the *Ratings system*.
 
-![](images/image37.png)
+![](images/image43.png)
 
 *Rate the Document*
 
 In the **Comments Tab** section you can post your comment. Click on Add
 Comment, insert your comment and click Submit Comment to post it.
 
-![](images/image29.png)
+![](images/image22.png)
 
 *Document Comments*
 
@@ -609,11 +605,11 @@ you want to remove it click on the red Delete button.
 *Your Comment*
 
 If you want this document in your *Favorites* (see [Updating the
-Profile](https://docs.geonode.org/en/master/usage/accounts_user_profile/updating_profile/index.html#editing-profile)),
+Profile]),
 open the **Favorite Tab** and click on Add to
-Favorites.![](images/image102.png)
+Favorites.![](images/image89.png)
 
-![](images/image69.png)
+![](images/image70.png)
 
 *Your Favorite Comment*
 
@@ -622,7 +618,7 @@ and tiff image documents. The *EXIF* means that additional information
 (metadata) is stored within the image, so GeoNode allows you to see
 those information in the **Exif Tab**.
 
-![](images/image144.png)
+![](images/image131.png)
 *The EXIF tab*
 
 **The Tools Section**
@@ -646,19 +642,18 @@ useful tool:
 
 -   Edit Document to change the document metadata, replace the file etc
     > (see [Document
-    > Editing](https://docs.geonode.org/en/master/usage/managing_documents/document_editing.html#document-editing))
+    > Editing])
 
 -   Download Metadata to download the whole set of metadata in various
     > formats\
     > \
-    > ![](images/image141.png)\
-    > *Document Metadata download\
+    > ![](images/image136.png)\
+    > Document Metadata download\
     > \
-    > *
 
 -   Change Document Permissions to assign permissions on the document to
     > users and groups (see [Changing the Document
-    > Permissions](https://docs.geonode.org/en/master/usage/managing_documents/document_permissions.html#edit-document-permissions)).
+    > Permissions]).
 
 **Exploring Metadata Details**
 ------------------------------
@@ -666,7 +661,7 @@ useful tool:
 When clicking on the Metadata Detail button the *Metadata Details Page*
 will open.
 
-> ![](images/image108.png)
+> ![](images/image77.png)
 
 *Document Metadata Details page*
 
@@ -691,29 +686,29 @@ will open.
 -   *Metadata Author*, the metadata author information
 
 > ○ [Document
-> Editing](https://docs.geonode.org/en/master/usage/managing_documents/document_editing.html)
+> Editing]
 
 **Document Editing**
 
 The [Document
-Information](https://docs.geonode.org/en/master/usage/managing_documents/document_info.html#document-info)
+Information]
 page makes available useful tools for document editing. Click on the
 Edit Document button to see what you can do to make changes. The picture
 below shows you the *Editing Panel* that will appear on the screen.
 
-> ![](images/image86.png)
+> ![](images/image82.png)
 
 *Document Editing panel*
 
 You can *Replace* the document file with another one by clicking on
 Replace. It will drive you to the *Document Upload* page (see [Uploading
-Documents](https://docs.geonode.org/en/master/usage/managing_documents/uploading_documents.html#uploading-documents))
+Documents])
 where you can upload a new file.
 
 The Remove button allows you to delete the document. You will have to
 confirm that choice.
 
-> ![](images/image95.png)
+> ![](images/image100.png)
 *Document Removal confirmation*
 
 The *Editing Panel* shows you also some links for editing the metadata
@@ -732,13 +727,13 @@ button Upload files. If the thumbnail has been successfully uploaded you
 can see it by coming back to the document list. Click on the Explore
 Documents button to check that.
 
-> ![](images/image13.png)
+> ![](images/image8.png)
 
 *Upload Document’s Thumbnail*
 
 If no errors occur the following message will be shown.
 
-> ![](images/image57.png)
+> ![](images/image65.png)
 
 *Uploading success*
 
@@ -754,14 +749,14 @@ the red rectangle in the picture below.
 
 > The Wizard button drives you to the wizard described in the [Filling
 > the Document
-> Metadata](https://docs.geonode.org/en/master/usage/managing_documents/document_metadata.html#document-metadata)
+> Metadata]
 > section. The Advanced Edit button takes you to a big form where all
 > the available metadata of the document can be edited.
 >
 > Some information is mandatory such as the *Title* or the *Category*
 > the document belongs to, some others are optional.
 >
-> ![](images/image70.png)
+> ![](images/image75.png)
 
 *Editing Metadata*
 
@@ -769,8 +764,8 @@ In the example shown in the picture above, the information inside the
 red rectangles have been changed. To save the changes click on Update,
 you will be redirected to the document page.
 
-> ○ [Changing the Document
-> Permissions](https://docs.geonode.org/en/master/usage/managing_documents/document_permissions.html)
+[Changing the Document
+> Permissions]
 > 1:34:20
 
 Changing the Document Permissions
@@ -785,7 +780,7 @@ groups.
 Through the button shown in the picture below it is possible to manage
 the document permissions.
 
-> ![](images/image132.png)
+> ![](images/image120.png)
 
 *The button to change permissions*
 
@@ -802,7 +797,7 @@ page allows to set up who can:
 
 See an example in the picture below.
 
-> ![](images/image131.png)
+> ![](images/image121.png)
 
 *Changing the Document permissions*
 
@@ -818,11 +813,11 @@ Once the permissions are set, click Apply changes to save them.
 >
 > ○ Share document, rate, comment and add to favourites 1:30:52
 >
-> ● [Managing
-> Layers](https://docs.geonode.org/en/master/usage/managing_layers/index.html)
+> [Managing
+> Layers]
 >
 > ○ [Layers
-> Uploading](https://docs.geonode.org/en/master/usage/managing_layers/uploading_layers.html)
+> Uploading]
 > 1:19:21
 
 Layers Uploading
@@ -837,31 +832,31 @@ Layers Uploading
 The *Layer Uploading* page can be reached from the Upload Layer link of
 the Data menu in the navigation bar.
 
-> ![](images/image56.png)
+> ![](images/image57.png)
 *Link for Layers Uploading*
 
 There is also an Upload Layers button in the *Layers Page*.
 
-> ![](images/image150.png)
+> ![](images/image118.png)
 
 *Button for Layers Uploading*
 
 The *Layers Uploading* page looks like the one in the picture below.
 
-> ![](images/image73.png)
+> ![](images/image69.png)
 
 *The Layers Uploading page*
 
 > Through the Choose Files button you can select files from your disk,
 > make sure they are valid raster or vector spatial data. You can also
 > change the default *Permissions* settings (see [Changing the Layer
-> Permissions](https://docs.geonode.org/en/master/usage/managing_layers/layer_permissions.html#layer-permissions)
+> Permissions]
 > for further information on how to set permissions).
 >
 > Select the *charset*, then click on Upload files to start the process
 > or click Clear to remove all the loaded files form the page.
 >
-> ![](images/image80.gif)
+> ![](images/image85.gif)
 
 *Shapefile Uploading*
 
@@ -883,10 +878,10 @@ scratch, how to set permissions, how to explore the layer properties and
 how to edit them.
 
 > ○ [Creating a Layer from
-> scratch](https://docs.geonode.org/en/master/usage/managing_layers/new_layer_from_scratch.html)
+> scratch]
 >
 > ○ [Using Remote
-> Services](https://docs.geonode.org/en/master/usage/managing_layers/using_remote_services.html)
+> Services]
 > 1:39:45
 
 Using Remote Services
@@ -908,7 +903,7 @@ bar.
 
 The page that opens will contain the list of the available services.
 
-> ![](images/image124.png)
+> ![](images/image130.png)
 
 *Remote Services*
 
@@ -920,7 +915,7 @@ To configure a new service:
 
 -   select the *Service Type\
     > \
-    > * ![](images/image9.png)\
+    > * ![](images/image18.png)\
     > *Service Types\
     > \
     > *
@@ -982,7 +977,7 @@ interested in through the *Import Resources* page where you will be
 automatically redirected to. Take a look at the gif below to see the
 whole process.
 
-> ![](images/image81.gif)
+> ![](images/image80.gif)
 
 *A new Remote Service*
 
@@ -999,7 +994,7 @@ whole process.
 *Remote Service metadata*
 
 > ○ [Changing the Layer
-> Permissions](https://docs.geonode.org/en/master/usage/managing_layers/layer_permissions.html)
+> Permissions]
 > 1:21:36
 
 Changing the Layer Permissions
@@ -1012,14 +1007,14 @@ and manage layers, anyone can view and download them.
 In order to modify the Layer *Permissions* settings you have to click
 the Change the Layer Permissions button in the Layer page.
 
-> ![](images/image35.png)
+> ![](images/image14.png)
 
 *Change Layer Permissions*
 
 Through the *Permissions Settings Panel* you can add or remove
 permissions for users and groups. The picture below shows an example.
 
-> ![](images/image128.png)
+> ![](images/image123.png)
 
 *Layer Permissions settings for users and groups*
 
@@ -1046,22 +1041,22 @@ those permissions. Be careful in case of editing permissions.
 
 Click on Apply Changes to save these settings.
 
-> ○ [Layer
-> Information](https://docs.geonode.org/en/master/usage/managing_layers/layer_info.html)
+> [Layer
+> Information]
 > 1:23:33
 
 Layer Information
 =================
 
 > In this section you will learn more about layers. In the
-> [Layers](https://docs.geonode.org/en/master/usage/data/finding_data.html#finding-layers)
+> [Layers]
 > section we explain how to find layers, now we want to go more in depth
 > showing you how to explore detailed information about that.
 >
 > From the layers list page, click on the layer you are interested in.
 > The *Layer Page* will open.
 >
-> ![](images/image125.png)
+> ![](images/image107.png)
 
 *Layer Information*
 
@@ -1091,7 +1086,7 @@ functionalities:
 
 -   the *Print* tool to print the preview.
 
-> ![](images/image82.gif)
+> ![](images/image86.gif)
 
 *Layer Preview*
 
@@ -1113,7 +1108,7 @@ information about the layer:
     > are the topic categories the layer belongs to and which regions
     > are affected.\
     > \
-    > ![](images/image99.png)\
+    > ![](images/image101.png)\
     > *Layer Info tab\
     > \
     > *
@@ -1123,7 +1118,7 @@ information about the layer:
     > statistics (e.g. the range of values) are estimated (if
     > possible).\
     > \
-    > ![](images/image139.png)\
+    > ![](images/image127.png)\
     > *Layer Attributes tab\
     > \
     > *
@@ -1131,14 +1126,14 @@ information about the layer:
 -   The *Share* tab provides the links for the layer to share through
     > social media or email.\
     > \
-    > ![](images/image71.png)\
+    > ![](images/image76.png)\
     > *Layer Sharing\
     > \
     > *
 
 -   You can *Rate* the layer through the *Rating system*.\
     > \
-    > ![](images/image14.png)\
+    > ![](images/image25.png)\
     > *Rate the Layer\
     > \
     > *
@@ -1147,7 +1142,7 @@ information about the layer:
     > Add Comment, insert your comment and click Submit Comment to post
     > it.\
     > \
-    > ![](images/image96.png)\
+    > ![](images/image95.png)\
     > *Layer Comments\
     > \
     > \
@@ -1156,10 +1151,10 @@ information about the layer:
     > Delete button.
 
 -   If you want this layer in your *Favorites* (see [Updating the
-    > Profile](https://docs.geonode.org/en/master/usage/accounts_user_profile/updating_profile/index.html#editing-profile)),
+    > Profile]),
     > open the *Favorite* tab and click on Add to Favorites.\
     > \
-    > ![](images/image91.png)\
+    > ![](images/image98.png)\
     > *Your Favorite Layer\
     > \
     > *
@@ -1171,24 +1166,24 @@ In the right side of the *Layer Page* there are some buttons and
 information that can help you to manage your layer. This paragraph will
 cover only those tools which show layers information. The *Editing
 Tools* will be explored in the [Layer
-Editing](https://docs.geonode.org/en/master/usage/managing_layers/layer_editing.html#layer-editing)
+Editing]
 section.
 
 -   through the Download Layer button you can download your layer with
     > some options, see [Downloading
-    > Layers](https://docs.geonode.org/en/master/usage/managing_layers/layer_download.html#layer-download);
+    > Layers];
 
 -   the Metadata Detail button to see the layer metadata, see [Layers
-    > Metadata](https://docs.geonode.org/en/master/usage/managing_layers/layer_metadata.html#layer-metadata)
+    > Metadata]
     > to read more;
 
 -   The Editing Tools button allows you to access many editing tools.
     > Those functionalities will be explained in the [Layer
-    > Editing](https://docs.geonode.org/en/master/usage/managing_layers/layer_editing.html#layer-editing)
+    > Editing]
     > section;
 
 -   the View Layer button opens the layer loaded in a map, see the [Map
-    > Information](https://docs.geonode.org/en/master/usage/managing_maps/map_info.html#map-info)
+    > Information]
     > for more details;
 
 -   the Download Metadata button allows you to download the layer
@@ -1212,7 +1207,7 @@ section.
     > Click on the checkbox corresponding to one of the styles listed to
     > apply it the preview;\
     > \
-    > ![](images/image67.png)\
+    > ![](images/image47.png)\
     > *Change the Layer Style in preview\
     > \
     > *
@@ -1229,10 +1224,10 @@ section.
 -   The *About* section shows you the layer *Owner*, the *Contact* user
     > and the *Metadata Author*.
 
-> ○ View layers 1:07:23
+> View layers 1:07:23
 >
-> ○ [Downloading
-> Layers](https://docs.geonode.org/en/master/usage/managing_layers/layer_download.html)
+> [Downloading
+> Layers]
 > 1:11:32
 
 Downloading Layers
@@ -1240,7 +1235,7 @@ Downloading Layers
 
 > At the top of the *Layer Page* there is the Download Layer button (see
 > [Layer
-> Information](https://docs.geonode.org/en/master/usage/managing_layers/layer_info.html#layer-info)).
+> Information]).
 > It provides access to the ability to extract geospatial data from
 > within GeoNode.
 >
@@ -1248,7 +1243,7 @@ Downloading Layers
 > can choose the *Images* formats PNG, PDF, JPEG if you want to save a
 > “screenshot-like” image of the layer.
 >
-> ![](images/image49.png)
+> ![](images/image55.png)
 
 *Downloading Layers as Images*
 
@@ -1256,7 +1251,7 @@ You can also download the layer data, the supported export formats will
 be listed in the *Data* tab. Click on your desired format to trigger the
 download.
 
-> ![](images/image90.png)
+> ![](images/image91.png)
 
 *Downloading the Layer Data*
 
@@ -1264,24 +1259,24 @@ As shown in the image above, GeoNode allows you to download a subset of
 data. Click on Do you want to filter it? to filter the layer data before
 the download.
 
-> ![](images/image63.gif)
+> ![](images/image68.gif)
 
 *Downloading the Layer Data*
 
-> ○ Download data associated to the layer 1:11:45
+> Download data associated to the layer 1:11:45
 >
-> ○ [Layer
-> Editing](https://docs.geonode.org/en/master/usage/managing_layers/layer_editing.html)
+> [Layer
+> Editing]
 > 1:10:25
 
 Layer Editing
 =============
 
 The Editing Tools button of the *Layer Page* (see [Layer
-Information](https://docs.geonode.org/en/master/usage/managing_layers/layer_info.html#layer-info))
+Information])
 opens a panel like the one shown in the picture below.
 
-> ![](images/image62.png)
+> ![](images/image46.png)
 
 *The Layer Editing panel*
 
@@ -1297,10 +1292,10 @@ In that panel you can see many options grouped by four categories:
 
 In this section you will learn how to edit a *Layer*, how to replace and
 edit its data. See [Layers
-Metadata](https://docs.geonode.org/en/master/usage/managing_layers/layer_metadata.html#layer-metadata)
+Metadata]
 to learn how to explore the layer *Metadata*, how to upload and edit
 them. The *Styles* will be covered in a dedicated section, see [Layer
-Styling](https://docs.geonode.org/en/master/usage/managing_layers/layer_styling.html#layer-style).
+Styling].
 
 **Setting the Layer Thumbnail**
 -------------------------------
@@ -1312,7 +1307,7 @@ Styling](https://docs.geonode.org/en/master/usage/managing_layers/layer_styling.
 >
 > A message will confirm the thumbnail has been correctly changed.
 >
-> ![](images/image66.png)
+> ![](images/image53.png)
 
 *The Layer Editing panel*
 
@@ -1321,7 +1316,7 @@ button of the *Layer Editing* panel. Using the “Upload Thumbnail” page
 it is possible to enable the automatically generated thumbnail or upload
 an image to be used in place of it.
 
-> ![](images/image17.png)
+> ![](images/image26.png)
 
 *The Upload Thumbnail panel*
 
@@ -1332,7 +1327,7 @@ From the *Layer Editing* panel click on Replace to change the layer
 source dataset. You will be driven to the *Replace Layer* page in which
 Choose Files button allows you to select files from your disk.
 
-> ![](images/image24.png)
+> ![](images/image15.png)
 
 *Replace a Layer*
 
@@ -1340,14 +1335,14 @@ Once the *Charset* selected the upload process can be triggered by
 clicking on Replace Layer. If no errors occur you will see a message
 like the one in the picture below.
 
-> ![](images/image138.png)
+> ![](images/image128.png)
 
 *Replace Layer success*
 
 We have replaced the *roads* dataset with the *railways* one. You can
 see the differences in the *Layer Preview*.
 
-> ![](images/image75.png)
+> ![](images/image56.png)
 
 *Result of the Layer Replacement*
 
@@ -1357,7 +1352,7 @@ see the differences in the *Layer Preview*.
 The Edit data button of the *Layer Editing* panel opens the *Layer*
 within a *Map*.
 
-> ![](images/image36.png)
+> ![](images/image12.png)
 
 *Editing the Layer Data*
 
@@ -1365,12 +1360,12 @@ The *Attribute Table* panel of the *Layer* will automatically appear at
 the bottom of the *Map*. In that panel all the features are listed. For
 each feature you can zoom to its extent by clicking on the corresponding
 *magnifying glass* icon
-[![](images/image22.png)](https://docs.geonode.org/en/master/_images/magnifying_glass_icon.png)
+[![](images/image31.png)]
 at the beginning of the row, you can also observe which values the
 feature assumes for each attribute.
 
 Click the *Edit Mode*
-[![](images/image60.png)](https://docs.geonode.org/en/master/_images/edit_mode_button.png)
+[![](images/image62.png)]
 button to start an editing session.
 
 Now you can:
@@ -1378,17 +1373,17 @@ Now you can:
 -   *Add new Features\
     > \
     > * Through the *Add New Feature* button
-    > [![](images/image68.png)](https://docs.geonode.org/en/master/_images/add_new_feature_button.png)
+    > [![](images/image79.png)]
     > it is possible to set up a new feature for your layer. Fill the
     > attributes fields and click
-    > [![](images/image123.png)](https://docs.geonode.org/en/master/_images/save_changes_button.png)
+    > [![](images/image129.png)]
     > to save your change. Your new feature doesn’t have a shape yet,
-    > click on [![](images/image77.png)](https://docs.geonode.org/en/master/_images/add_shape_to_geometry_button.png)
+    > click on [![](images/image84.png)]
     > to draw its shape directly on the *Map* then click on
-    > [![](images/image88.png)](https://docs.geonode.org/en/master/_images/save_changes_button.png)
+    > [![](images/image99.png)]
     > to save it.\
     > \
-    > ![](images/image15.gif)\
+    > ![](images/image13.gif)\
     > *Add a New Feature to the Layer\
     > \
     > \
