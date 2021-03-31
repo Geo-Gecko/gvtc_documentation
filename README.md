@@ -62,7 +62,7 @@ Foundation (OSGeo) to guide in the use of the GVTC geonode.
 GeoNode Users Guide
 ===================
 
--   [Accounts and User
+<!-- -   [Accounts and User
     > Profile](https://docs.geonode.org/en/master/usage/accounts_user_profile/index.html)
 
     -   [Creating a New
@@ -166,12 +166,12 @@ GeoNode Users Guide
 Try to note where you can take screenshots for these particular sections
 and we can do that later on. And for the sections not talked about in
 the training videos, just mark them so we see what we are missing and
-maybe include it.
+maybe include it. -->
 
  <span style="font-variant:small-caps;">Accounts and User Profile</span>
 ========================================================================
 
-[Interacting with Users and Groups](https://docs.geonode.org/en/master/usage/users_groups/index.html)
+[Interacting with Users and Groups]<!--(https://docs.geonode.org/en/master/usage/users_groups/index.html) -->
 =====================================================================================================
 
 **Viewing other users information** 
@@ -183,13 +183,13 @@ Once your account is created, you can view other accounts on the system.
 To see information about other users on the system, click on the
 “People” option from the “About” drop down menu (see screenshot below)
 
-![](images/image18.png)
+![](images/image32.png)
 
 *About menu - People link*
 
 A page having a list of registered users will pop up.
 
-![](images/image46.png)
+![](images/image54.png)
 
 *List of the registered users*
 
@@ -198,7 +198,7 @@ the name of the user you are looking for in the input text field to
 filter the users list. Select a user and click on their *username* to
 access the user details page.
 
-![](images/image84.png)
+![](images/image88.png)
 
 **User details**
 ----------------
@@ -210,7 +210,7 @@ the user owns (layers, maps and documents).
 Through the User Activities link, on the right side of the page, it is
 possible to visualize all the activities the user has done.
 
-![](images/image16.png)
+![](images/image29.png)
 
 ***User activities***
 
@@ -220,13 +220,13 @@ section to read more about that.
 It is also possible, in GeoNode, to see the recent activities of all
 users through the Recent Activities link of the user menu.
 
-![](images/image28.png)
+![](images/image39.png)
 
 *Recent Activities link*
 
 In the picture below an example of a user's recent activities.
 
-![](images/image127.png)
+![](images/image137.png)
 
 *Recent Activities*
 
@@ -241,14 +241,9 @@ GeoNode allows you to communicate by message with other registered users
 and groups.
 
 To send a message to some user and/or groups you can follow the link
-Message User from your *Profile* page (see [Updating the
-Profile](https://docs.geonode.org/en/master/usage/accounts_user_profile/updating_profile/index.html#editing-profile))
-or from the *Profile* details page (see the previous section [Viewing
-other users
-information](https://docs.geonode.org/en/master/usage/users_groups/users_info.html#user-info))
-of that user.
+Message User from your *Profile* page or from the *Profile* details page of that user.
 
-![](images/image130.png)
+![](images/image139.png)
 
 **Send message to users and groups**
 ------------------------------------
@@ -259,7 +254,7 @@ the message to the users and groups you have selected.
 You will be redirected to the *Conversation* details page related to the
 subject.
 
-![](images/image8.png)
+![](images/image21.png)
 
 *Your message*
 
@@ -270,13 +265,13 @@ You can view your conversations in your *Inbox* page, reachable through
 the Back to inbox button (see the picture above) or from the Inbox link
 of the user menu.
 
-![](images/image32.png)
+![](images/image41.png)
 
 *Inbox link*
 
 The picture below shows how your *Inbox* page should look like.
 
-![](images/image30.png)
+![](images/image42.png)
 
 *Inbox page*
 
@@ -284,7 +279,7 @@ In *Inbox* all the unread messages are listed. You haven’t received any
 message yet so your *Inbox* is empty. If you switch to the *All* tab you
 can see all the conversations you are involved in.
 
-> ![](images/image136.png)
+> ![](images/image138.png)
 
 *All your conversations*
 
@@ -298,7 +293,7 @@ the picture below for an example.
 You can open the *Conversation* details by clicking on the *Subject*
 link.
 
-![](images/image133.png)
+![](images/image140.png)
 
 *Conversation details*
 
@@ -309,20 +304,13 @@ and click on Send Reply to do that.
 In the *Inbox* page there is also the Create Message button that
 provides you a quick link to the message creation form.
 
-> ○ Inviting new users
-
- Data
+Data
 =====
-
-Data Types 
-===========
 
 The GeoNode welcome page shows a variety of information about the
 current GeoNode instance.
 
 You can explore the existing data using many search tools and filters
-(see [Finding
-Data](https://docs.geonode.org/en/master/usage/data/finding_data.html#finding-data))
 or through the links of the navigation bar at the top of the page.
 
 There are three main types of resources that GeoNode can manage:
@@ -336,14 +324,14 @@ There are three main types of resources that GeoNode can manage:
 Documents and layers can be accessed from the Data menu of the
 navigation bar.
 
-![](images/image65.png)
+![](images/image78.png)
 
 *Data menu*
 
 The Maps menu lets you view already existing maps and also create new
 maps.
 
-![](images/image23.png)
+![](images/image36.png)
 
 *Maps menu*
 
@@ -353,9 +341,7 @@ maps.
 GeoNode allows to publish tabular and text data and to manage metadata
 and associated documents.
 
-Documents can be uploaded directly from your disk (see [Uploading
-Documents](https://docs.geonode.org/en/master/usage/managing_documents/uploading_documents.html#uploading-documents)
-for further information).
+Documents can be uploaded directly from your local disk.
 
 The following documents types are allowed: .doc, .docx, .gif, .jpg,
 .jpeg, .ods, .odt, .odp, .pdf, .png, .ppt, .pptx, .rar, .sld, .tif,
@@ -404,8 +390,8 @@ the layers are automatically reprojected to a web mercator for maps
 display, making it possible to use popular base maps such as
 [OpenStreetMap](https://www.openstreetmap.org).
 
-[Managing Documents](https://docs.geonode.org/en/master/usage/managing_documents/index.html)
-============================================================================================
+[Managing Documents]
+====================
 
 **Uploading Documents**
 -----------------------
@@ -423,23 +409,22 @@ Only authenticated users can upload data into GeoNode.
 
 *Documents* uploading is accessible from two positions:
 
--   the Upload Documents button of the *Documents Search* page (see
-    [Documents](https://docs.geonode.org/en/master/usage/data/finding_data.html#finding-documents))\
+-   the Upload Documents button of the *Documents Search* page\
     \
-    ![](images/image54.png)\
+    ![](images/image59.png)\
     *Documents Upload button\
     \
     *
 
 The Upload Document link of the Data menu in the navigation bar\
 \
-![](images/image48.png)\
+![](images/image52.png)\
 *Document Upload link*
 
 The *Document Upload* page looks like the one shown in the picture
 below.
 
-> ![](images/image11.png)
+> ![](images/image27.png)
 > *Document Upload page*
 
 In order to upload a document:
@@ -456,7 +441,7 @@ In order to upload a document:
 
 At the end of the uploading process you will be driven to the *Metadata*
 page to fill out other information about the document. See the next
-section to know more about that.
+section to learn more.
 
 > ○ Document formats allowed and accepted
 >
@@ -498,7 +483,7 @@ not provided) whereas the last one is optional.
 
 -   The *Group* to which the document is linked.
 
-![](images/image26.png)
+![](images/image40.png)
 
 > *Document Basic Metadata*
 
@@ -508,15 +493,13 @@ in the bottom right corner of the page.
 **Note:** When a document is linked to some resources, you can see that
 link on the *Resource Page*.
 
-![](images/image53.png)
+![](images/image60.png)
 
 > *Documents linked to a Layer*
 
-It will be also visible on the [Document
-Information](https://docs.geonode.org/en/master/usage/managing_documents/document_info.html#document-info)
-page.
+It will be also visible on the *Document Information* page.
 
-![](images/image7.png)
+![](images/image5.png)
 
 > *Resources linked to a Document*
 
@@ -535,7 +518,7 @@ page.
 -   Potential *Restrictions* to sharing the document should be provided
     > in the Restrictions box.
 
-![](images/image145.png)
+![](images/image142.png)
 
 > *Document Location and Licenses*
 >
