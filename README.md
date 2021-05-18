@@ -62,117 +62,8 @@ Foundation (OSGeo) to guide in the use of the GVTC geonode.
 GeoNode Users Guide
 ===================
 
-<!-- -   [Accounts and User
-    > Profile](https://docs.geonode.org/en/master/usage/accounts_user_profile/index.html)
-
-    -   [Creating a New
-        > Account](https://docs.geonode.org/en/master/usage/accounts_user_profile/new_account/index.html)
-
-    -   [Updating the
-        > Profile](https://docs.geonode.org/en/master/usage/accounts_user_profile/updating_profile/index.html)
-
--   [Interacting with Users and
-    > Groups](https://docs.geonode.org/en/master/usage/users_groups/index.html)
-
-    -   [Viewing other users
-        > information](https://docs.geonode.org/en/master/usage/users_groups/users_info.html)
-
-    -   [Contacting other
-        > users](https://docs.geonode.org/en/master/usage/users_groups/contacting_users.html)
-
--   [Data](https://docs.geonode.org/en/master/usage/data/index.html)
-
-    -   [Data
-        > Types](https://docs.geonode.org/en/master/usage/data/data_types.html)
-
-    -   [Finding
-        > Data](https://docs.geonode.org/en/master/usage/data/finding_data.html)
-
--   [Managing
-    > Documents](https://docs.geonode.org/en/master/usage/managing_documents/index.html)
-
-    -   [Uploading
-        > Documents](https://docs.geonode.org/en/master/usage/managing_documents/uploading_documents.html)
-
-    -   [Filling the Document
-        > Metadata](https://docs.geonode.org/en/master/usage/managing_documents/document_metadata.html)
-
-    -   [Document
-        > Information](https://docs.geonode.org/en/master/usage/managing_documents/document_info.html)
-
-    -   [Document
-        > Editing](https://docs.geonode.org/en/master/usage/managing_documents/document_editing.html)
-
-    -   [Changing the Document
-        > Permissions](https://docs.geonode.org/en/master/usage/managing_documents/document_permissions.html)
-
--   [Managing
-    > Layers](https://docs.geonode.org/en/master/usage/managing_layers/index.html)
-
-    -   [Layers
-        > Uploading](https://docs.geonode.org/en/master/usage/managing_layers/uploading_layers.html)
-
-    -   [Creating a Layer from
-        > scratch](https://docs.geonode.org/en/master/usage/managing_layers/new_layer_from_scratch.html)
-
-    -   [Using Remote
-        > Services](https://docs.geonode.org/en/master/usage/managing_layers/using_remote_services.html)
-
-    -   [Changing the Layer
-        > Permissions](https://docs.geonode.org/en/master/usage/managing_layers/layer_permissions.html)
-
-    -   [Layer
-        > Information](https://docs.geonode.org/en/master/usage/managing_layers/layer_info.html)
-
-    -   [Downloading
-        > Layers](https://docs.geonode.org/en/master/usage/managing_layers/layer_download.html)
-
-    -   [Layer
-        > Editing](https://docs.geonode.org/en/master/usage/managing_layers/layer_editing.html)
-
-    -   [Layers
-        > Metadata](https://docs.geonode.org/en/master/usage/managing_layers/layer_metadata.html)
-
-    -   [Layer
-        > Styling](https://docs.geonode.org/en/master/usage/managing_layers/layer_styling.html)
-
--   [Managing
-    > Maps](https://docs.geonode.org/en/master/usage/managing_maps/index.html)
-
-    -   [Creating
-        > Maps](https://docs.geonode.org/en/master/usage/managing_maps/creating_maps.html)
-
-    -   [Map
-        > Information](https://docs.geonode.org/en/master/usage/managing_maps/map_info.html)
-
-    -   [Maps
-        > Metadata](https://docs.geonode.org/en/master/usage/managing_maps/map_metadata.html)
-
-    -   [Changing the Map
-        > Permissions](https://docs.geonode.org/en/master/usage/managing_maps/map_permissions.html)
-
-    -   [Exploring
-        > Maps](https://docs.geonode.org/en/master/usage/managing_maps/exploring_maps/index.html)
-
--   [Publishing
-    > Data](https://docs.geonode.org/en/master/usage/publishing_data/index.html)
-
--   [Using GeoNode with Other
-    > Applications](https://docs.geonode.org/en/master/usage/other_apps/index.html)
-
-    -   [QGIS
-        > Desktop](https://docs.geonode.org/en/master/usage/other_apps/qgis/index.html)
-
-Try to note where you can take screenshots for these particular sections
-and we can do that later on. And for the sections not talked about in
-the training videos, just mark them so we see what we are missing and
-maybe include it. -->
-
- <span style="font-variant:small-caps;">Accounts and User Profile</span>
-========================================================================
-
-[Interacting with Users and Groups]<!--(https://docs.geonode.org/en/master/usage/users_groups/index.html) -->
-=====================================================================================================
+[Interacting with Users and Groups]
+===================================
 
 **Viewing other users information** 
 ------------------------------------
@@ -449,11 +340,11 @@ section to learn more.
 >
 > ○ Document metadata
 
-**Filling the Document Metadata **
-----------------------------------
+Filling the Document Metadata
+-----------------------------
 
 Metadata contains all the information related to the document: they are its ID card. They provide essential information for its identification and its comprehension. Metadata also makes the document more easily retrievable through search by other users.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Editing a document’s metadata is done in three steps (*Basic Metadata*,
 *Location and Licenses*, *Optional Metadata*). The first two steps are
@@ -764,10 +655,6 @@ In the example shown in the picture above, the information inside the
 red rectangles have been changed. To save the changes click on Update,
 you will be redirected to the document page.
 
-[Changing the Document
-> Permissions]
-> 1:34:20
-
 Changing the Document Permissions
 =================================
 
@@ -806,19 +693,6 @@ charge of the responsible of the document, i.e. the contributor who
 uploaded it and who has those permissions by default.
 
 Once the permissions are set, click Apply changes to save them.
-
-> ○ Download document and metadata 1:29:45
->
-> ○ View document resources 1:30:30
->
-> ○ Share document, rate, comment and add to favourites 1:30:52
->
-> [Managing
-> Layers]
->
-> ○ [Layers
-> Uploading]
-> 1:19:21
 
 Layers Uploading
 ================
@@ -866,24 +740,6 @@ operation made during the layer upload and alerts you when the process
 is over. When the process ends click the Layer Info to check the layer
 has been correctly uploaded.
 
-Note
-
-There are a lot of free spatial datasets available on the Internet. In
-this example, an extract of the Berlin city center roads map from the
-[BBBike extracts OpenStreetMap](https://extract.bbbike.org) dataset has
-been used.
-
-In the next paragraphs you will learn how to create a layer from
-scratch, how to set permissions, how to explore the layer properties and
-how to edit them.
-
-> ○ [Creating a Layer from
-> scratch]
->
-> ○ [Using Remote
-> Services]
-> 1:39:45
-
 Using Remote Services
 =====================
 
@@ -913,19 +769,15 @@ To configure a new service:
 
 -   type the *Service URL*
 
--   select the *Service Type\
-    > \
-    > * ![](images/image18.png)\
-    > *Service Types\
-    > \
-    > *
+-   select the *Service Type
+    > ![](images/image18.png)\
+    > Service Types
 
 -   click on Create
 
 GeoNode supports three **types of remote services**:
 
--   *Web Map Service\
-    > \
+-   Web Map Service
     > * Generic Web Map Service (WMS) based on a standard protocol for
     > serving georeferenced map images over the Internet. These images
     > are typically produced by a map server (like
@@ -936,27 +788,23 @@ GeoNode supports three **types of remote services**:
     > and a list of the available layers) and *GetMap* (to retrieve a
     > map image for a specified area and content).\
     > \
-    > \
     > Note\
     > \
     > Lots of WMS services are available on the internet, in this
     > example we used the https://demo.geo-solutions.it/geoserver/wms.
 
--   *GeoNode Web Map Service\
-    > \
+-   GeoNode Web Map Service
     > * Generally a WMS is not directly invoked; client applications
     > such as GIS-Desktop or WEB-GIS are used that provide the user with
     > interactive controls. A GeoNode WMS automatically performs some
     > operations and lets you to immediately retrieve resources.\
-    > \
     > \
     > Note\
     > \
     > An example of GeoNode WMS is available
     > at http://dev.geonode.geo-solutions.it/geoserver/wms.
 
--   *ArcGIS REST MapServer\
-    > \
+-   ArcGIS REST MapServer
     > * This map service provides basic information about the map,
     > including the layers that it contains, whether the map is cached
     > or not, its spatial reference, initial and full extents, whether
@@ -965,7 +813,6 @@ GeoNode supports three **types of remote services**:
     > of the service are allowed: Edit Service, Refresh, Update Tiles.
     > The URL should follow this pattern:
     > https://&lt;servicecatalog-url&gt;/services/&lt;serviceName&gt;/MapServer.\
-    > \
     > \
     > Note\
     > \
@@ -992,10 +839,6 @@ whole process.
 > ![](images/image119.png)
 
 *Remote Service metadata*
-
-> ○ [Changing the Layer
-> Permissions]
-> 1:21:36
 
 Changing the Layer Permissions
 ==============================
@@ -1026,13 +869,11 @@ You can set the following types of permissions:
 
 -   *Change Metadata* allows to change the layer metadata;
 
--   *Edit Data* allows to change attributes and properties of the layers
-    > features;
+-   *Edit Data* allows to change attributes and properties of the layers/features
 
 -   *Edit Style* allows to change the layer style;
 
--   *Manage* allows to update, delete, change permissions, publish and
-    > unpublish the layer.
+-   *Manage* allows to update, delete, change permissions, publish and unpublish the layer.
 
 Note
 
@@ -1040,10 +881,6 @@ When assigning permissions to a group, all the group members will have
 those permissions. Be careful in case of editing permissions.
 
 Click on Apply Changes to save these settings.
-
-> [Layer
-> Information]
-> 1:23:33
 
 Layer Information
 =================
@@ -1082,7 +919,6 @@ functionalities:
 -   the *Zoom to max extent* tool for the zoom to fit the layer size;
 
 -   the *Query Objects* tool to retrieve information about the map
-    > objects by clicking on the map;
 
 -   the *Print* tool to print the preview.
 
@@ -1109,9 +945,7 @@ information about the layer:
     > are affected.\
     > \
     > ![](images/image101.png)\
-    > *Layer Info tab\
     > \
-    > *
 
 -   The *Attributes* tab shows the data structure behind the layer. All
     > the attributes are listed and for each of them some
@@ -1119,33 +953,22 @@ information about the layer:
     > possible).\
     > \
     > ![](images/image127.png)\
-    > *Layer Attributes tab\
-    > \
     > *
 
 -   The *Share* tab provides the links for the layer to share through
     > social media or email.\
     > \
     > ![](images/image76.png)\
-    > *Layer Sharing\
-    > \
-    > *
 
--   You can *Rate* the layer through the *Rating system*.\
+-   You can *Rate* the layer through the *Rating system*.
     > \
     > ![](images/image25.png)\
-    > *Rate the Layer\
-    > \
-    > *
 
 -   In the *Comments* tab section you can post your comment. Click on
     > Add Comment, insert your comment and click Submit Comment to post
     > it.\
     > \
     > ![](images/image95.png)\
-    > *Layer Comments\
-    > \
-    > \
     > * Your comment will be added next to the last already
     > existing comment. If you want to remove it click on the red
     > Delete button.
@@ -1155,9 +978,6 @@ information about the layer:
     > open the *Favorite* tab and click on Add to Favorites.\
     > \
     > ![](images/image98.png)\
-    > *Your Favorite Layer\
-    > \
-    > *
 
 **Layer Tools**
 ---------------
@@ -1169,48 +989,30 @@ Tools* will be explored in the [Layer
 Editing]
 section.
 
--   through the Download Layer button you can download your layer with
-    > some options, see [Downloading
-    > Layers];
+-   through the Download Layer button you can download your layer with some options.
 
--   the Metadata Detail button to see the layer metadata, see [Layers
-    > Metadata]
-    > to read more;
+-   the Metadata Detail button to see the layer metadata.
 
 -   The Editing Tools button allows you to access many editing tools.
-    > Those functionalities will be explained in the [Layer
-    > Editing]
-    > section;
 
--   the View Layer button opens the layer loaded in a map, see the [Map
-    > Information]
-    > for more details;
+-   the View Layer button opens the layer loaded in a map.
 
--   the Download Metadata button allows you to download the layer
-    > metadata in various formats;
+-   the Download Metadata button allows you to download the layer metadata in various formats.
 
--   the *Legend* shows what the symbols and styles on the map are
-    > referring to;
+-   the *Legend* shows what the symbols and styles on the map are referring to.
 
--   in the *Map using this layer* section all the map which uses the
-    > layer are listed;
+-   in the *Map using this layer* section all the map which uses the layer are listed.
 
--   in the *Create a map using this layer*, the Create a Map button
-    > allows you to create a map from scratch using the layer;
+-   in the *Create a map using this layer*, the Create a Map button allows you to create a map from scratch using the layer.
 
--   The section *Add the layer to an existing map* shows you a dropdown
-    > menu in which all the maps the user can view are listed. The
-    > button Add to Map allows you to add the layer to the map you have
-    > selected in the previous menu;
+-   The section *Add the layer to an existing map* shows you a dropdown menu in which all the maps the user can view are listed. The button Add to Map allows you to add the layer to the map you have selected in the previous menu.
 
 -   The *Styles* section shows all the styles associated with the layer.
     > Click on the checkbox corresponding to one of the styles listed to
     > apply it the preview;\
     > \
     > ![](images/image47.png)\
-    > *Change the Layer Style in preview\
-    > \
-    > *
+    > Change the Layer Style in preview\
 
 -   in the *Refresh Attributes and Statistics of this layer* section the
     > Refresh Attributes and Statistics allows GeoNode to refresh the
@@ -1218,17 +1020,9 @@ section.
     > has been also set on the backend, it will recalculate their
     > statistics too;
 
--   in the *Clear the Server Cache of this layer* section the Empty
-    > Tiled-Layer Cache allows to wipe the tile-cache of this layer;
+-   in the *Clear the Server Cache of this layer* section the Empty Tiled-Layer Cache allows to wipe the tile-cache of this layer;
 
--   The *About* section shows you the layer *Owner*, the *Contact* user
-    > and the *Metadata Author*.
-
-> View layers 1:07:23
->
-> [Downloading
-> Layers]
-> 1:11:32
+-   The *About* section shows you the layer *Owner*, the *Contact* user and the *Metadata Author*.
 
 Downloading Layers
 ==================
@@ -1262,12 +1056,6 @@ the download.
 > ![](images/image68.gif)
 
 *Downloading the Layer Data*
-
-> Download data associated to the layer 1:11:45
->
-> [Layer
-> Editing]
-> 1:10:25
 
 Layer Editing
 =============
@@ -1360,98 +1148,59 @@ The *Attribute Table* panel of the *Layer* will automatically appear at
 the bottom of the *Map*. In that panel all the features are listed. For
 each feature you can zoom to its extent by clicking on the corresponding
 *magnifying glass* icon
-[![](images/image31.png)]
+[![](images/image31.png =250x)]
 at the beginning of the row, you can also observe which values the
 feature assumes for each attribute.
 
 Click the *Edit Mode*
-[![](images/image62.png)]
+[![](images/image62.png =250x)]
 button to start an editing session.
 
 Now you can:
 
--   *Add new Features\
-    > \
+-   Add new Features
     > * Through the *Add New Feature* button
-    > [![](images/image79.png)]
+    > [![](images/image79.png =250x)]
     > it is possible to set up a new feature for your layer. Fill the
     > attributes fields and click
-    > [![](images/image129.png)]
+    > [![](images/image129.png =250x)]
     > to save your change. Your new feature doesn’t have a shape yet,
-    > click on [![](images/image84.png)]
+    > click on [![](images/image84.png =250x)]
     > to draw its shape directly on the *Map* then click on
-    > [![](images/image99.png)]
+    > [![](images/image99.png =250x)]
     > to save it.\
     > \
     > ![](images/image13.gif)\
     > *Add a New Feature to the Layer\
-    > \
-    > \
     > \
     > * Note\
     > \
     > When your new feature has a multi-vertex shape you have to
     > double-click the last vertex to finish the drawing.
 
--   *Delete Features\
-    > \
+-   Delete Features
     > * If you want to delete a feature you have to select it on the
     > *Attribute Table* and click on
-    > [![](images/image78.png)](https://docs.geonode.org/en/master/_images/delete_feature_button.png).\
+    > [![](images/image78.png)].\
     > \
     > ![](images/image106.gif)\
     > *Delete a Feature\
-    > \
-    > *
 
--   *Change the Feature Shape\
-    > \
-    > * You can edit the shape of an existing geometry dragging its
-    > vertices with the mouse. A blue circle lets you know what vertex
-    > you are moving.\
-    > \
-    > ![](images/image104.gif)\
-    > *Feature Shape Editing - Change the existing shape\
-    > \
-    > \
-    > * Features can have *multipart shapes*. You can add parts to the
-    > shape when editing it.\
-    > \
-    > ![](images/image87.gif)\
-    > *Feature Shape Editing - Add parts to the existing shape\
-    > \
-    > *
-
--   *Change the Feature Attributes\
-    > \
+-   *Change the Feature Attributes
     > * When you are in *Edit Mode* you can also edit the attributes
     > values changing them directly in the corresponding text fields.\
     > \
     > ![](images/image20.gif)\
-    > *Feature Attributes Editing\
-    > \
-    > *
 
 Once you have finished you can end the *Editing Session* by clicking on
-the [![](images/image121.png)](https://docs.geonode.org/en/master/_images/end_editing_session_button.png)
-button.
+the [![](images/image62.png =250x)] button.
+
 
 By default the GeoNode map viewer is
 [MapStore](https://mapstore2.geo-solutions.it/mapstore/#/) based, see
 the [MapStore
 Documentation](https://mapstore2.readthedocs.io/en/latest/) for further
 information.
-
-> ○ [Layers
-> Metadata](https://docs.geonode.org/en/master/usage/managing_layers/layer_metadata.html)
->
-> ○ Viewing metadata 1:13:49
->
-> ○ Download metadata 1:14:53
->
-> ○ [Layer
-> Styling](https://docs.geonode.org/en/master/usage/managing_layers/layer_styling.html)
-> 1:16:35
 
 Layer Styling
 =============
@@ -1499,29 +1248,23 @@ all the available styles for the layer and some useful tools.
 
 Now follow the steps below:
 
-1.  Click the [![](images/image134.png)](https://docs.geonode.org/en/master/_images/create_new_style_button.png) button.
+1.  Click the [![](images/image134.png =250x)](https://docs.geonode.org/en/master/_images/create_new_style_button.png) button.
     > The *Style Templates Panel* will open.
 
-> ![](images/image126.png)
+> ![](images/image126.png =250x)
 >
 > *Create new Styles*
 
-2.  Choose a *Style Template* from the list (both *CSS* and *SLD* styles
-    > are available).
+2.  Choose a *Style Template* from the list (both *CSS* and *SLD* styles are available).
 
-> ![](images/image110.png)
+> ![](images/image110.png =250x)
 >
 > *Style Templates*
 
-3.  Click the [![](images/image94.png)](https://docs.geonode.org/en/master/_images/add_style_button.png)
-    > button to add the *Style Template* to the styles list.
-
-<!-- -->
+3.  Click the button to add the *Style Template* to the styles list.
 
 4.  Insert a *Title* and an *Abstract* (optional), then click on Save.
 
-> ![](images/image44.png)
->
 > *Title and Abstract for new Styles*
 
 The style you have created is now added to the *Styles List*.
@@ -1550,13 +1293,13 @@ paragraph we will explain how.
 The following steps show you how to edit styles:
 
 1.  From inside the map open the *TOC (Table Of Content)* by clicking
-    > the [![](images/image72.png)](https://docs.geonode.org/en/master/_images/toc_button.png)
+    > the [![](https://docs.geonode.org/en/master/_images/toc_button.png)](https://docs.geonode.org/en/master/_images/toc_button.png)
     > button
 
-2.  Click on [![](images/image114.png)](https://docs.geonode.org/en/master/_images/layer_settings_button.png)
+2.  Click on [![](https://docs.geonode.org/en/master/_images/layer_settings_button.png)](https://docs.geonode.org/en/master/_images/layer_settings_button.png)
 
 3.  Open the *Style* tab
-    > [![](images/image52.png)](https://docs.geonode.org/en/master/_images/style_tab.png)
+    > [![](https://docs.geonode.org/en/master/_images/style_tab.png)](https://docs.geonode.org/en/master/_images/style_tab.png)
 
 > Note:
 >
@@ -1566,30 +1309,26 @@ The following steps show you how to edit styles:
 > to read more)
 
 4.  Select the *Style* and click on
-    > [![](images/image149.png)](https://docs.geonode.org/en/master/_images/style_editor_button.png)
+    > [![](https://docs.geonode.org/en/master/_images/style_editor_button.png)](https://docs.geonode.org/en/master/_images/style_editor_button.png)
 
 5.  Edit the style. The *Style Editor* helps you to write valid styles
     > through the *Syntax Validator* which shows you a popup in case of
     > errors (see the picture below).
 
-> ![](images/image115.png)
->
 > *The Style Editor Syntax Validation*
 
-6.  Click on [![](images/image117.png)](https://docs.geonode.org/en/master/_images/save_style_button.png)
+6.  Click on [![](https://docs.geonode.org/en/master/_images/save_style_button.png)](https://docs.geonode.org/en/master/_images/save_style_button.png)
     > to save your changes.
 
 See the following gif to recap the whole process.
 
-> ![](images/image142.gif)
-
 *The Style Editor*
 
 > You can also decide to make your new style the *Default Style* of that
-> layer. Click on [![](images/image113.png)](https://docs.geonode.org/en/master/_images/set_style_as_default_button.png)
+> layer. Click on [![](https://docs.geonode.org/en/master/_images/set_style_as_default_button.png)](https://docs.geonode.org/en/master/_images/set_style_as_default_button.png)
 > to do that.
 >
-> Click on [![](images/image12.png)](https://docs.geonode.org/en/master/_images/delete_style_button.png)
+> Click on [![](https://docs.geonode.org/en/master/_images/delete_style_button.png)](https://docs.geonode.org/en/master/_images/delete_style_button.png)
 > to delete the style.
 
 **Uploading Styles**
@@ -1607,15 +1346,7 @@ Tools* panel and follow the steps below:
 
 1.  Click the Upload button of the *Styles* section
 
-> ![](images/image105.png)
->
-> *Upload Styles button*
-
 2.  Click on Choose Files and select your style from your disk
-
-> ![](images/image147.png)
->
-> *Upload Styles*
 
 3.  Click on Upload files
 
@@ -1627,8 +1358,6 @@ the *Layer Page*.
 
 Given a layer, you can manage all its styles in the *Styles Management
 Page* accessible from the Manage button of the *Layer Editing* panel.
-
-> ![](images/image59.png)
 
 *Managing Styles*
 
@@ -1642,17 +1371,6 @@ In that page you can:
 
 Click on Update Available Styles to save your changes.
 
-> ○ View attributes 1:16:55
->
-> ○ Share layer, rate, comment and add to favourites 1:17:05
->
-> ● [Managing
-> Maps](https://docs.geonode.org/en/master/usage/managing_maps/index.html)
->
-> ○ [Creating
-> Maps](https://docs.geonode.org/en/master/usage/managing_maps/creating_maps.html)
-> 1:41:03 and 1:43:15
-
 Creating Maps
 =============
 
@@ -1662,32 +1380,14 @@ share the resulting map for public viewing.
 
 In order to create new maps you can use:
 
--   the Create Map link of the *Maps* menu in the navigation bar\
-    > \
-    > ![](images/image79.png)\
-    > *The Create Map link\
-    > \
-    > *
+-   the Create Map link of the *Maps* menu in the navigation bar
 
--   the Create Map button in the *Layer Page* (it creates a map using a
-    > specific layer)\
-    > \
-    > ![](images/image45.png)\
-    > *The Create Map button\
-    > \
-    > *
+-   the Create Map button in the *Layer Page* (it creates a map using a specific layer)
 
--   the Create New Map button in the *Explore Maps* page\
-    > \
-    > ![](images/image5.png)\
-    > *The Create New Map button\
-    > \
-    > *
+-   the Create New Map button in the *Explore Maps* page
 
 The new *Map* will open in a *Map Viewer* like the one in the picture
 below.
-
-> ![](images/image148.png)
 
 *The Map Viewer*
 
@@ -1703,19 +1403,17 @@ below.
 > them up or down in the list).
 >
 > It also allows to hide/show layers (
-> [![](images/image116.png)](https://docs.geonode.org/en/master/_images/show_button.png)
-> and [![](images/image51.png)](https://docs.geonode.org/en/master/_images/hide_button.png)
+> [![](https://docs.geonode.org/en/master/_images/show_button.png)](https://docs.geonode.org/en/master/_images/show_button.png)
+> and [![](https://docs.geonode.org/en/master/_images/hide_button.png)](https://docs.geonode.org/en/master/_images/hide_button.png)
 > ), to zoom to layers extents (
-> [![](images/image58.png)](https://docs.geonode.org/en/master/_images/zoom_to_layer_extent_button.png)
+> [![](https://docs.geonode.org/en/master/_images/zoom_to_layer_extent_button.png)](https://docs.geonode.org/en/master/_images/zoom_to_layer_extent_button.png)
 > ) and to manage their properties (
-> [![](images/image19.png)](https://docs.geonode.org/en/master/_images/layer_settings_button1.png)
+> [![](https://docs.geonode.org/en/master/_images/layer_settings_button1.png)](https://docs.geonode.org/en/master/_images/layer_settings_button1.png)
 > ).
 >
 > Once the map layers have been settled it is possible to save the *Map*
-> by clicking on [![](images/image89.png)](https://docs.geonode.org/en/master/_images/burger_menu_button.png)
+> by clicking on [![](https://docs.geonode.org/en/master/_images/burger_menu_button.png)](https://docs.geonode.org/en/master/_images/burger_menu_button.png)
 > and choosing Save as.
->
-> ![](images/image129.gif)
 
 *Creating new Maps*
 
@@ -1728,18 +1426,6 @@ We will take a closer look at the *Map Viewer* tools in the [Exploring
 Maps](https://docs.geonode.org/en/master/usage/managing_maps/exploring_maps/index.html#exploring-maps)
 section.
 
-> ○ Edit and upload maps 1:41:30
->
-> ○ Share, rate and comment on map 1:41:47
->
-> ○ Download map 1:41:59
->
-> ○ View map and layers, documents associated in map 1:42:18
->
-> ○ [Map
-> Information](https://docs.geonode.org/en/master/usage/managing_maps/map_info.html)
-> 1:42:52
-
 Map Information
 ===============
 
@@ -1750,8 +1436,7 @@ Map Information
 >
 > Click on the title of the *Map* you are interested in to open its
 > *Information* page, it should look like the following.
->
-> ![](images/image135.png)
+
 
 *The Map Information page*
 
@@ -1772,15 +1457,12 @@ The *Map Preview* shows the *Map* with very basic functionalities:
 
 -   the *Zoom in/out* tool to enlarge and decrease the view;
 
--   the *Zoom to max extent* tool for the zoom to fit the layers
-    > extents;
+-   the *Zoom to max extent* tool for the zoom to fit the layers extents;
 
--   the *Query Objects* tool to retrieve information about the map
-    > objects by clicking on the map;
+-   the *Query Objects* tool to retrieve information about the map objects by clicking on the map;
 
 -   the *Print* tool to print the preview.
 
-> ![](images/image118.gif)
 
 *Map Preview*
 
@@ -1799,50 +1481,19 @@ different information about the map:
     > The metadata also indicates the map owner and which regions
     > are involved. The Map Layers WMS GetCapabilities document link is
     > also provided.\
-    > \
-    > ![](images/image101.png)\
-    > *Maps Info tab\
-    > \
-    > *
 
--   The *Share* tab provides the links for the map to share through
-    > social media or email.\
-    > \
-    > ![](images/image41.png)\
-    > *Map Sharing\
-    > \
-    > *
+-   The *Share* tab provides the links for the map to share through social media or email.
 
--   You can *Rate* the map through the *Rating system*.\
-    > \
-    > ![](images/image21.png)\
-    > *Map Rating\
-    > \
-    > *
+-   You can *Rate* the map through the *Rating system*.
 
 -   In the *Comments* tab section you can post your comment. Click on
     > Add Comment, insert your comment and click Submit Comment to post
     > it.\
-    > \
-    > \
-    > ![](images/image112.png)\
-    > *Map Comments\
-    > \
-    > \
     > * Your comment will be added next to the last already
     > existing comment. If you want to remove it click on the red
     > Delete button.
 
-<!-- -->
-
--   If you want this map in your *Favorites* (see [Updating the
-    > Profile](https://docs.geonode.org/en/master/usage/accounts_user_profile/updating_profile/index.html#editing-profile)),
-    > open the *Favorite* tab and click on Add to Favorites.\
-    > \
-    > ![](images/image83.png)\
-    > *Your Favorite Maps\
-    > \
-    > *
+-   If you want this map in your *Favorites*, open the *Favorite* tab and click on Add to Favorites.
 
 **Map Tools**
 -------------
@@ -1856,34 +1507,19 @@ different information about the map:
 
 -   click the Download Map button, to download the map as image;
 
--   click the Metadata Detail button to see the map metadata, see [Maps
-    > Metadata](https://docs.geonode.org/en/master/usage/managing_maps/map_metadata.html#map-metadata);
+-   click the Metadata Detail button to see the map metadata, 
 
--   click the Editing Tools button to access many editing tools. Those
-    > functionalities will be explained in the [Exploring
-    > Maps](https://docs.geonode.org/en/master/usage/managing_maps/exploring_maps/index.html#exploring-maps)
-    > section;
+-   click the Editing Tools button to access many editing tools.
 
--   click the View Map button to open the map, see the [Exploring
-    > Maps](https://docs.geonode.org/en/master/usage/managing_maps/exploring_maps/index.html#exploring-maps)
-    > section for more details;
+-   click the View Map button to open the map
 
--   see the *Map Layers* section to know which layers are used by the
-    > map (you can open the *Layer Page* by clicking on its name,
-    > available only for local layers);
+-   see the *Map Layers* section to know which layers are used by the map (you can open the *Layer Page* by clicking on its name, available only for local layers);
 
--   click the Create a Map button of the *Copy this map* section to
-    > duplicate the map;
+-   click the Create a Map button of the *Copy this map* section to duplicate the map;
 
--   click the Publish Map WMS of the *Map WMS* section to publish local
-    > map layers as WMS layer group;
+-   click the Publish Map WMS of the *Map WMS* section to publish local map layers as WMS layer group;
 
--   see the *About* section to know the map *Owner*, the *Contact* user
-    > and the *Metadata Author*.
-
-> ○ [Maps
-> Metadata](https://docs.geonode.org/en/master/usage/managing_maps/map_metadata.html)
-> 1:42:12
+-   see the *About* section to know the map *Owner*, the *Contact* user and the *Metadata Author*.
 
 Maps Metadata
 =============
@@ -1891,28 +1527,18 @@ Maps Metadata
 *Maps Metadata* can be explored by clicking the Metadata Detail button
 from the *Map Information* page.
 
-> ![](images/image76.png)
-
-*The Map Metadata Detail button*
-
 The *Map Metadata* page will open.
-
-> ![](images/image40.png)
 
 *The Map Metadata Details*
 
 Lots of information is displayed on this page. Those information are
 grouped as follow:
 
--   *Identification* to uniquely identify the map (Title, License,
-    > Publication Date and Regions. There are also some flags which tell
-    > you the state of the map, in particular if it is Approved and/or
-    > Published);
+-   *Identification* to uniquely identify the map (Title, License, Publication Date and Regions. There are also some flags which tell you the state of the map, in particular if it is Approved and/or Published);
 
 -   the map *Owner*;
 
--   *Information*, the Identification Image, the Spatial Extent, the
-    > Projection System and the Extent;
+-   *Information*, the Identification Image, the Spatial Extent, the Projection System and the Extent;
 
 -   *Features*, Language, Supplemental and other Information;
 
@@ -1933,35 +1559,25 @@ grouped as follow:
 > which you have to provide all mandatory information to complete the
 > process. Those three steps are described below.
 
--   **Basic Metadata\
-    > \
-    > ** ![](images/image25.png)\
+-   Basic Metadata
     > *Basic Map Metadata\
-    > \
     > \
     > * In the first step the system asks you to insert the following
     > metadata (required fields are highlighted with red outlines):
 
     -   The *Thumbnail* of the map (click Edit to change it);
 
-    -   The *Title* of the map, which should be clear and
-        > understandable;
+    -   The *Title* of the map, which should be clear and understandable;
 
-    -   An *Abstract*; brief narrative summary of the content of the
-        > Map\
-        > \
-        > \
-        > \
+    -   An *Abstract*; brief narrative summary of the content of the Map
         > Note\
         > \
         > The *Abstract* panel allows you to insert HTML code through a
         > *wysiwyg* text editor
 
-    -   The *Creation/Publication/Revision Dates* which define the time
-        > period that is covered by the map;
+    -   The *Creation/Publication/Revision Dates* which define the time period that is covered by the map;
 
-    -   The *Keywords*, which should be chosen within the available
-        > list;
+    -   The *Keywords*, which should be chosen within the available list;
 
     -   The *Category* which the map belongs to;
 
@@ -1969,12 +1585,8 @@ grouped as follow:
 
 -   Click Next &gt;&gt; to go to the next step.
 
--   **Location and Licenses\
-    > \
-    > ** ![](images/image3.png)\
+-   Location and Licenses
     > *Location and Licenses Metadata for Maps\
-    > \
-    > \
     > * The following list shows what kinds of metadata you are required
     > to enter (see also the picture below):
 
@@ -1991,48 +1603,34 @@ grouped as follow:
 
     -   Potential *Restrictions* on layer sharing.
 
--   No further mandatory metadata is required in the next step, so once
-    > the required fields have been filled out, a green Done button will
-    > be visible on the screen. Click Next &gt;&gt; to go to the next
-    > step or &lt;&lt; Back to go back to the previous step.
+-   No further mandatory metadata is required in the next step, so once the required fields have been filled out, a green Done button will be visible on the screen. Click Next &gt;&gt; to go to the next step or &lt;&lt; Back to go back to the previous step.
 
--   **Optional Metadata\
+-   Optional Metadata
     > \
-    > ** ![](images/image93.png)\
-    > *Optional Map Metadata\
-    > \
+    > Optional Map Metadata\
     > \
     > * Complementary information are:
 
-    -   The *Edition* of the map;
+    > * The *Edition* of the map;
 
-    -   The *Purpose* of the map and its objectives;
+    > * The *Purpose* of the map and its objectives;
 
-    -   Any *Supplemental information* that can provide a better
-        > understanding of the map;
+    > * Any *Supplemental information* that can provide a better understanding of the map;
 
     -   The *Maintenance frequency* of the map;
 
-    -   The *Spatial representation type*, the method used to represent
-        > geographic information in the dataset;
+    -   The *Spatial representation type*, the method used to represent geographic information in the dataset;
 
-    -   The users who are *Responsible* for the layer, its *Owner*, and
-        > the *Author* of its metadata;
+    -   The users who are *Responsible* for the layer, its *Owner*, and the *Author* of its metadata;
 
 If you miss some mandatory metadata the *Completeness* bar shows you a
 red message like the one in the picture below.
-
-> ![](images/image122.png)
-
-*Completeness Progress Bar*
 
 **Metadata Advanced Editing**
 -----------------------------
 
 The Advanced Edit editing tool allows to change the map metadata. You
 can find this button into the map *Editing Tools*.
-
-> ![](images/image146.png)
 
 *The Advanced Edit button*
 
@@ -2041,22 +1639,13 @@ allows you to edit all the layer metadata described in the previous
 paragraph. Once you have finished to edit them click on Update to save
 your changes.
 
-Exploring Maps 1:40:39
-======================
-
 From the Explore Maps link of the navigation bar you can reach the *Maps
 List* page (see
 [Maps](https://docs.geonode.org/en/master/usage/data/finding_data.html#finding-maps)).
 Select a map you are interested in and click on it, the *Map Page* will
 open.
 
-> ![](images/image107.png)
-
-*The View Map button*
-
 Click on the View Map button to open the *Map Viewer*.
-
-> ![](images/image33.png)
 
 *The Map View*
 
@@ -2064,27 +1653,17 @@ The Map Viewer (based on
 [MapStore](https://mapstore2.geo-solutions.it/mapstore/#/)) provides the
 following tools:
 
--   the [Table of
-    > Contents (TOC)](https://docs.geonode.org/en/master/usage/managing_maps/exploring_maps/toc.html#toc)
-    > to manage the map contents;
+-   the Table of Contents (TOC) to manage the map contents;
 
--   the *Basemap Switcher* to change the basemap (see the next
-    > paragraphs);
+-   the *Basemap Switcher* to change the basemap (see the next paragraphs);
 
--   the *Search Bar* to search by location, name and coordinates (see
-    > the paragraph below);
+-   the *Search Bar* to search by location, name and coordinates;
 
--   the [Options Menu
-    > Tools](https://docs.geonode.org/en/master/usage/managing_maps/exploring_maps/options_menu.html#options-menu-tools)
-    > which contains the link to the *Print* tool, to the layers
-    > *Catalog* and to the *Measure* tool;
+-   the Options Menu Tools which contains the link to the *Print* tool, to the layers *Catalog* and to the *Measure* tool;
 
--   the *Sidebar* and its tools such as the *Zoom* tools and the *Get
-    > Features Info* tool;
+-   the *Sidebar* and its tools such as the *Zoom* tools and the *Get Features Info* tool;
 
--   the *Footer Tools* to manage the scale of the map, to track the
-    > mouse coordinates and change the CRS (Coordinates
-    > Reference System).
+-   the *Footer Tools* to manage the scale of the map, to track the mouse coordinates and change the CRS (Coordinates Reference System).
 
 **Search Bar**
 --------------
@@ -2093,10 +1672,6 @@ following tools:
 > interests (POIs), streets or locations by name.
 >
 > Lets type the name of some place then select the first record.
->
-> ![](images/image55.png)
-
-*The Search Bar*
 
 The map will automatically re-center on that area delimiting it by a
 polygon in the case of an area, by a line in the case of a linear shape
@@ -2104,7 +1679,6 @@ polygon in the case of an area, by a line in the case of a linear shape
 
 > ![](images/image31.png)
 
-*Result of a Search*
 
 **Sidebar Tools**
 -----------------
@@ -2115,88 +1689,29 @@ polygon in the case of an area, by a line in the case of a linear shape
 > objects on the map.
 >
 > By default the *Sidebar* shows you the zooming buttons
-> [![](images/image42.png)](https://docs.geonode.org/en/master/_images/zoom_in_button.png)
-> and [![](images/image137.png)](https://docs.geonode.org/en/master/_images/zoom_out_button.png),
+> [![](https://docs.geonode.org/en/master/_images/zoom_in_button.png)](https://docs.geonode.org/en/master/_images/zoom_in_button.png)
+> and [![](https://docs.geonode.org/en/master/_images/zoom_out_button.png)](https://docs.geonode.org/en/master/_images/zoom_out_button.png),
 > other options can be explored by clicking on
-> [![](images/image98.png)](https://docs.geonode.org/en/master/_images/sidebar_expand_button.png)
+> [![](https://docs.geonode.org/en/master/_images/sidebar_expand_button.png)](https://docs.geonode.org/en/master/_images/sidebar_expand_button.png)
 > which expands/collapses the toolbar.
->
-> ![](images/image6.png)
 
-*The Default Sidebar*
-
-> ![](images/image64.png)
-
-*The Expanded Sidebar*
 
 The *Sidebar* contains the following tools:
 
--   The *Query Objects on map* allows you to get feature information
-    > through the [![](images/image85.png)](https://docs.geonode.org/en/master/_images/query_objects_on_map_button.png) button.
-    > It allows you to retrieve information about the features of some
-    > layers by clicking them directly on the map.\
-    > \
-    > ![](images/image109.gif)\
-    > *Querying Objects on map\
-    > \
-    > \
+-   The *Query Objects on map* allows you to get feature information through the [![](https://docs.geonode.org/en/master/_images/query_objects_on_map_button.png)](https://docs.geonode.org/en/master/_images/query_objects_on_map_button.png) button. It allows you to retrieve information about the features of some layers by clicking them directly on the map.
     > * When clicking on the map a new panel opens. That panel will show
     > you all the information about the clicked features for each active
     > loaded layer.
 
 -   You can *Zoom To Max Extent* by clicking
-    > [![](images/image61.png)](https://docs.geonode.org/en/master/_images/zoom_to_max_extent_button.png).
+    > [![](https://docs.geonode.org/en/master/_images/zoom_to_max_extent_button.png)](https://docs.geonode.org/en/master/_images/zoom_to_max_extent_button.png).
 
 -   You can switch between the previous and the next zoom level through
     > the *Go Back* button
-    > [![](images/image10.png)](https://docs.geonode.org/en/master/_images/go_back_button.png)
+    > [![](https://docs.geonode.org/en/master/_images/go_back_button.png)](https://docs.geonode.org/en/master/_images/go_back_button.png)
     > and the *Go Forward* one
-    > [![](images/image1.png)](https://docs.geonode.org/en/master/_images/go_forward_button.png).
+    > [![](https://docs.geonode.org/en/master/_images/go_forward_button.png)](https://docs.geonode.org/en/master/_images/go_forward_button.png).
 
 -   The *Switch to Full Screen*
-    > [![](images/image4.png)](https://docs.geonode.org/en/master/_images/full_screen_button.png)
+    > [![](https://docs.geonode.org/en/master/_images/full_screen_button.png)](https://docs.geonode.org/en/master/_images/full_screen_button.png)
     > button allows to have a full screen map.
-
-**Basemap Switcher**
---------------------
-
-By default, GeoNode allows to enrich maps with many world backgrounds:
-
--   *OpenStreetMap*
-
--   *OpenTopoMap*
-
--   *Sentinel-2-cloudless*
-
-> ![](images/image100.png)
-
-*The Basemap Switcher Tool*
-
-You can also decide to have an *Empty Background*.
-
-> ![](images/image39.gif)
-
-*Switching the Basemap*
-
-> ● [Publishing
-> Data](https://docs.geonode.org/en/master/usage/publishing_data/index.html)
-
-How to access GeoNode 1:05:30
-
-> · Sign In 1:05:57
->
-> · Sign Out 1:47:30
-
-Questions
-
-> ● Who adds layers and data
->
-> ● Review marks for documents uploaded
->
-> · User types
->
-> · Types of groups that can be formed
->
-> · How recent is the data
->
-> · Terms and conditions for data usage and data sources
